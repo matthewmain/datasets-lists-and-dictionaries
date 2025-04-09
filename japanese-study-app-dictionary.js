@@ -1,0 +1,96 @@
+
+let dictionary = [
+
+  [ "hello|~hi|good day|good afternoon", "こんにちは", "kon'nichiwa|~konnichiwa" ],
+  [ "goodbye|bye|see you", "じゃあね|またね", "jāne|jane|matane" ],
+  [ "good morning", "おはよう", "ohayō|ohayo" ],
+  [ "good evening", "こんばんは", "konbanwa" ],
+  [ "good night", "おやすみ", "oyasumi" ],
+
+  [ "yes|yeah", "はい", "hai" ],
+  [ "no|it's nothing|you're welcome", "いいえ|じゃない", "īe|ie|janai" ],
+  [ "not", "じゃない", "janai" ],
+  
+  [ "please", "ください", "kudasai" ],
+  [ "thank you|thanks", "ありがとう", "arigatō|arigato" ],
+  [ `you’re welcome ("it's nothing")|you're welcome|it's nothing|no`, "いいえ", "īe|ie" ],
+  [ `you’re welcome (formal)|you're welcome|`, "どういたしまして", "dōitashimashite|doitashimashite" ],
+  [ "I'm sorry|excuse me|pardon me", "すみません|ごめんなさい", "sumimasen|gomen'nasai|gomen nasai" ],
+
+  [ "this one (while pointing)|this one", "これです", "koredesu" ],
+
+  [ "fantastic!|excellent!|very good!", "すごい!|すごい", "sugoi!" ],
+
+  [ "cute", "かわいい", "kawai" ],
+
+  [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
+  [ "thank you for the meal", "ご馳走様でした", "gochisōsamadeshita|gochisōsama" ],
+
+  [ "I understand.", "わかります。", "Wakari mas." ],
+  [ "I don't understand.", "わかりません。", "Wakari masen." ],
+
+  [ "I speak Japanese poorly.", "わたしは日本語が下手です。|私は日本語が下手です。", "Watashi wa nihongo ga heta desu." ],
+
+  [ "I like [ramen].|I like ramen.", "私は[ラーメン]が好きです。|私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|Watashi wa rāmen ga sukidesu."],
+
+  [ "it's too much of a hassle|too much of a hassle|it's annoying|annoying", "めんどくさい|めんどくせー", "mendokusai" ],
+
+  [ "I / me|I|me", "わたし|私", "watashi" ],
+  [ "you (singular)|you", "あなた", "anata" ],
+  [ `he/she, him/her ("that person")|he|she|him|her`, "あのひと", "ano hito" ],
+  [ "we|us", "わたしたち|私たち", "watashi-tachi|watashi tachi|watashitachi" ],
+  [ "you (plural)|you", "あなたたち", "anata-tachi|anata tachi|anatatachi" ],         
+  [ "they", "かれら", "kare-ra|kare ra|karera" ],
+
+  [ "what", "何", "nani" ],
+  [ "where", "どこ", "doko" ],
+  [ "when", "いつ", "itsu" ],
+  [ "who", "誰が", "dare ga" ],
+  [ "how", "どうやって", "dō yatte|do yate" ],
+  [ "how much", "いくら", "ikura" ],
+  [ "how many", "幾つか", "ikutsu ka" ],
+
+  [ "and", "と", "to" ],
+  [ "or", "または", "matawa" ],
+  [ "but", "でも", "demo"],
+
+  [ "English", "英語","Eigo"],
+  [ "Japan", "日本", "Nihon" ],
+  [ "Japanese", "日本語", "nihongo" ],
+
+  [ "pear", "梨", "nashi" ],
+
+
+
+  [ "I love you.", "愛してます。", "Aishitemasu."],
+
+  [ "today", "今日", "kyō|kyo" ],
+  [ "yesterday", "昨日", "kinō" ],
+  [ "tomorrow", "明日", "ashita" ],
+  [ "two days ago", "二日前", "futsuka mae" ],
+  [ "day after tomorrow|two days from now", "明後日", "asatte" ],
+
+  [ "constipation", "便秘", "benpi" ],
+
+  [ "cold (physical feeling)|cold", "寒い", "samui" ],
+  [ "cold (temperature)|cold", "冷たい", "tsumetai" ],
+  [ "hot (physical feeling)", "熱い", "atsui" ],
+  [ "hot (temperature)", "暑い", "atsui" ],
+
+  [ "~zero|0", "ゼロ", "zero|~0" ],
+  [ "one|1", "一|いち", "ichi|1" ],
+  [ "two|2", "二|に", "ni|2" ],
+  [ "three|3", "三|さん", "san|3" ],
+  [ "four|4", "四|よん", "yon|4" ],
+  [ "five|5", "五|ご", "go|5" ],
+  [ "six|6", "六|ろく", "roku|6" ],
+  [ "seven|7", "七|なな", "nana|7" ],
+  [ "eight|8", "八|はち", "hachi|8" ],
+  [ "nine|9", "九|きゅう", "kyū|9" ],
+  [ "ten|10", "十|じゅう", "jū|10"]
+
+]
+
+
+
+
