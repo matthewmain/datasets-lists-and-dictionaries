@@ -1,5 +1,5 @@
 
-let dictionary = [
+[
 
   [ "hello|~hi|good day|good afternoon", "こんにちは", "kon'nichiwa|~konnichiwa" ],
   [ "goodbye|bye|see you", "じゃあね|またね", "jāne|jane|matane" ],
