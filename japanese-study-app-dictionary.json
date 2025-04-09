@@ -68,7 +68,7 @@
   [ "they", "かれら", "~kare-ra|kare ra|~karera" ],
 
   
-  [ "INTEROGATIVES" ],
+  [ "INTERROGATIVES" ],
   
   [ "what", "何", "nani" ],
   [ "where", "どこ", "doko" ],
@@ -116,8 +116,9 @@
   [ "cold (temperature)|~cold", "冷たい", "tsumetai" ],
   [ "hot (physical feeling)|hot", "熱い", "atsui" ],
   [ "hot (temperature)|hot", "暑い", "atsui" ],
- 
-  [ "-----" ],
+
+  
+  [ "NUMBERS" ],
   
   [ "zero|~0", "ゼロ", "zero|~0" ],
   [ "one|~1", "一|いち", "ichi|~1" ],
