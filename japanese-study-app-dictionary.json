@@ -1,4 +1,5 @@
 [  
+
   
   [ "COMMON PHRASES" ],
   
@@ -55,8 +56,12 @@
   [ "-----" ],
   
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい|めんどくせー", "mendokusai" ],
- 
-  [ "-----" ],
+
+
+  
+  [ "PRONOUNS" ],
+
+  [ "NOTE", "<a href="https://en.wikipedia.org/wiki/Japanese_pronouns">further reference</a>" ]
   
   [ "I / me|~I|~me", "わたし|私", "watashi" ],
   [ "you (singular)|~you", "あなた", "anata" ],
@@ -64,6 +69,7 @@
   [ "we|us", "わたしたち|私たち", "~watashi-tachi|watashi tachi|~watashitachi" ],
   [ "you (plural)|~you", "あなたたち", "~anata-tachi|anata tachi|~anatatachi" ],         
   [ "they", "かれら", "~kare-ra|kare ra|~karera" ],
+
 
   
   [ "INTERROGATIVES" ],
@@ -128,6 +134,7 @@
   [ "eight|~8", "八|はち", "hachi|~8" ],
   [ "nine|~9", "九|きゅう", "kyū|~9" ],
   [ "ten|~10", "十|じゅう", "jū|~10"],
+  
   [ "NOTE", "( …20 is 二十, 30 is 三十, 35 is 三十五, etc.)" ]
 
 ]
