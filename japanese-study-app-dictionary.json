@@ -37,7 +37,7 @@
   [ "fantastic!|excellent!|very good!", "すごい!|~すごい", "sugoi!" ],
   [ "cute", "かわいい", "kawai" ],
   [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
-  [ "thank you for the meal", "ご馳走様でした", "gochisōsamadeshita|gochisōsama" ],
+  [ "thank you for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
   [ "I understand.", "わかります。", "Wakari mas." ],
   [ "I don't understand.", "わかりません。", "Wakari masen." ],
   [ "I speak Japanese poorly.", "わたしは日本語が下手です。|私は日本語が下手です。", "Watashi wa nihongo ga heta desu." ],
