@@ -57,6 +57,9 @@
   
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい|めんどくせー", "mendokusai" ],
 
+  [ "-----" ],
+  
+  [ "I love you.", "愛してます。", "Aishitemasu."],
 
   
   [ "PRONOUNS" ],
@@ -81,14 +84,18 @@
   [ "how", "どうやって", "dō yatte|~do yate" ],
   [ "how much", "いくら", "ikura" ],
   [ "how many", "幾つか", "ikutsu ka" ],
- 
-  [ "-----" ],
+
+
+  
+  [ "CONJUNCTIONS & PREPOSITIONS" ],
   
   [ "and", "と", "to" ],
   [ "or", "または", "matawa" ],
   [ "but", "でも", "demo"],
- 
-  [ "-----" ],
+
+
+  
+  [ "NOUNS" ],
   
   [ "English", "英語","Eigo"],
   [ "Japan", "日本", "Nihon" ],
@@ -97,12 +104,10 @@
   [ "-----" ],
   
   [ "pear", "梨", "nashi" ],
- 
-  [ "-----" ],
+
+
   
-  [ "I love you.", "愛してます。", "Aishitemasu."],
- 
-  [ "-----" ],
+  [ "VERBS" ],
   
   [ "today", "今日", "kyō|kyo" ],
   [ "yesterday", "昨日", "kinō" ],
@@ -113,12 +118,15 @@
   [ "-----" ],
   
   [ "constipation", "便秘", "benpi" ],
- 
-  [ "-----" ],
+
+
+  
+  [ "ADJECTIVES" ],
   
   [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
   [ "cold (object)|~cold", "冷たい", "tsumetai" ],
   [ "hot", "熱い", "atsui" ],
+
 
   
   [ "NUMBERS" ],
