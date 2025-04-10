@@ -24,41 +24,25 @@
   [ "I'm sorry|excuse me|~pardon me", "すみません|ごめんなさい", "sumimasen|gomen'nasai|~gomennasai" ],
 
   [ "-----" ],
-  
-  [ "this one (while pointing)|~this one", "これです", "koredesu" ],
+
+  [ "today", "今日", "kyō|kyo" ],
+  [ "yesterday", "昨日", "kinō" ],
+  [ "tomorrow", "明日", "ashita" ],
+  [ "two days ago", "二日前", "futsuka mae" ],
+  [ "the day after tomorrow|~two days from now", "明後日", "asatte" ],
 
   [ "-----" ],
-  
+
+  [ "this one (while pointing)|~this one", "これです", "koredesu" ],  
   [ "fantastic!|excellent!|very good!", "すごい!|~すごい", "sugoi!" ],
-  
-  [ "-----" ],
-  
   [ "cute", "かわいい", "kawai" ],
- 
-  [ "-----" ],
-  
   [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
   [ "thank you for the meal", "ご馳走様でした", "gochisōsamadeshita|gochisōsama" ],
- 
-  [ "-----" ],
-  
   [ "I understand.", "わかります。", "Wakari mas." ],
   [ "I don't understand.", "わかりません。", "Wakari masen." ],
- 
-  [ "-----" ],
-  
   [ "I speak Japanese poorly.", "わたしは日本語が下手です。|私は日本語が下手です。", "Watashi wa nihongo ga heta desu." ],
- 
-  [ "-----" ],
-  
   [ "I like [ramen].|~I like ramen.", "私は[ラーメン]が好きです。|~私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu."],
- 
-  [ "-----" ],
-  
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい|めんどくせー", "mendokusai" ],
-
-  [ "-----" ],
-  
   [ "I love you.", "愛してます。", "Aishitemasu."],
 
   
@@ -100,24 +84,12 @@
   [ "English", "英語","Eigo"],
   [ "Japan", "日本", "Nihon" ],
   [ "Japanese", "日本語", "nihongo" ],
- 
-  [ "-----" ],
-  
   [ "pear", "梨", "nashi" ],
+  [ "constipation", "便秘", "benpi" ],
 
 
   
   [ "VERBS" ],
-  
-  [ "today", "今日", "kyō|kyo" ],
-  [ "yesterday", "昨日", "kinō" ],
-  [ "tomorrow", "明日", "ashita" ],
-  [ "two days ago", "二日前", "futsuka mae" ],
-  [ "the day after tomorrow|~two days from now", "明後日", "asatte" ],
- 
-  [ "-----" ],
-  
-  [ "constipation", "便秘", "benpi" ],
 
 
   
