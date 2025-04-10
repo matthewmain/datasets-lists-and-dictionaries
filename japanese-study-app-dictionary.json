@@ -113,9 +113,8 @@
   [ "-----" ],
   
   [ "cold (physical feeling)|~cold", "寒い", "samui" ],
-  [ "cold (temperature)|~cold", "冷たい", "tsumetai" ],
-  [ "hot (physical feeling)|hot", "熱い", "atsui" ],
-  [ "hot (temperature)|hot", "暑い", "atsui" ],
+  [ "cold (object)|~cold", "冷たい", "tsumetai" ],
+  [ "hot", "熱い", "atsui" ],
 
   
   [ "NUMBERS" ],
