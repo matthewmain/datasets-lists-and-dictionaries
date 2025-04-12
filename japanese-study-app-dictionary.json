@@ -45,10 +45,11 @@
   [ "I understand.", "わかります。", "Wakari mas." ],
   [ "I don't understand.", "わかりません。", "Wakari masen." ],
   [ "I speak Japanese poorly.", "わたしは日本語が下手です。|私は日本語が下手です。", "Watashi wa nihongo ga heta desu." ],
-  [ "I like [ramen].|~I like ramen.", "私は[ラーメン]が好きです。|~私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu."],
+  [ "I like [ramen].|~I like ramen.", "私は[ラーメン]が好きです。|~私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu." ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい|めんどくせー", "mendokusai" ],
-  [ "I love you.", "愛してます。", "Aishitemasu."],
-  [ "I'm hungry", "お腹すいた", "おnakasuita"],
+  [ "I love you.", "愛してます。", "Aishitemasu." ],
+  [ "I'm hungry", "お腹すいた", "onakasuita" ],
+  [ "I'm thirsty", "のどかわいた", "nodokawaita"　],
 
   
   [ "PRONOUNS" ],
