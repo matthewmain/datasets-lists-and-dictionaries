@@ -48,6 +48,7 @@
   [ "I like [ramen].|~I like ramen.", "私は[ラーメン]が好きです。|~私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu."],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい|めんどくせー", "mendokusai" ],
   [ "I love you.", "愛してます。", "Aishitemasu."],
+  [ "I'm hungry", "お腹すいた", "おnakasuita"],
 
   
   [ "PRONOUNS" ],
