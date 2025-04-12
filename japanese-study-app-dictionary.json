@@ -92,7 +92,7 @@
   [ "Japanese", "日本語", "nihongo" ],
   [ "pear", "梨", "nashi" ],
   [ "constipation", "便秘", "benpi" ],
-  [ "cow", "牛 / うし", "ushi" ],
+  [ "cow", "牛|~うし", "ushi" ],
 
 
   
@@ -127,7 +127,7 @@
   [ "nine|~9", "九", "kyū|~9" ],
   [ "ten|~10", "十", "jū|~10"],
   
-  [ "NOTE", "( …20 is 二十, 30 is 三十, 35 is 三十五, etc.)" ]
+  [ "NOTE", "( …11-19 is 十(number), then 20+ is (number)十; e.g., 11 is 十一, 20 is 二十, 30 is 三十, 35 is 三十五, etc.)" ]
 
 ]
 
