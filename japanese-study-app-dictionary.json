@@ -46,7 +46,7 @@
   [ "I don't understand.", "わかりません。", "Wakari masen." ],
   [ "I speak Japanese poorly.", "私は日本語が下手です。", "Watashi wa nihongo ga heta desu." ],
   [ "I like [ramen].|~I like ramen.", "私は[ラーメン]が好きです。|~私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu." ],
-  [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい|めんどくせー", "mendokusai" ],
+  [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
   [ "I love you.", "愛してます。", "Aishitemasu." ],
   [ "I'm hungry", "お腹すいた", "onakasuita" ],
   [ "I'm thirsty", "のどかわいた", "nodokawaita" ],
@@ -56,10 +56,10 @@
 
   [ "NOTE", "<a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
   
-  [ "I / me|~I|~me", "わたし|私", "watashi" ],
+  [ "I / me|~I|~me", "わたし / 私", "watashi" ],
   [ "you (singular)|~you", "あなた", "anata" ],
   [ "he/she, him/her (\"that person\")|~he|~she|~him|~her", "あのひと", "ano hito" ],
-  [ "we|us", "わたしたち|私たち", "~watashi-tachi|watashi tachi|~watashitachi" ],
+  [ "we|us", "わたしたち / 私たち", "~watashi-tachi|watashi tachi|~watashitachi" ],
   [ "you (plural)|~you", "あなたたち", "~anata-tachi|anata tachi|~anatatachi" ],         
   [ "they", "かれら", "kare ra|~kare-ra|~karera" ],
 
@@ -92,7 +92,7 @@
   [ "Japanese", "日本語", "nihongo" ],
   [ "pear", "梨", "nashi" ],
   [ "constipation", "便秘", "benpi" ],
-  [ "cow", "牛|うし", "ushi" ],
+  [ "cow", "牛 / うし", "ushi" ],
 
 
   
@@ -116,16 +116,16 @@
   [ "NUMBERS" ],
   
   [ "zero|~0", "ゼロ", "zero|~0" ],
-  [ "one|~1", "一|いち", "ichi|~1" ],
-  [ "two|~2", "二|に", "ni|~2" ],
-  [ "three|~3", "三|さん", "san|~3" ],
-  [ "four|~4", "四|よん", "yon|~4" ],
-  [ "five|~5", "五|ご", "go|~5" ],
-  [ "six|~6", "六|ろく", "roku|~6" ],
-  [ "seven|~7", "七|なな", "nana|~7" ],
-  [ "eight|~8", "八|はち", "hachi|~8" ],
-  [ "nine|~9", "九|きゅう", "kyū|~9" ],
-  [ "ten|~10", "十|じゅう", "jū|~10"],
+  [ "one|~1", "一", "ichi|~1" ],
+  [ "two|~2", "二", "ni|~2" ],
+  [ "three|~3", "三", "san|~3" ],
+  [ "four|~4", "四", "yon|~4" ],
+  [ "five|~5", "五", "go|~5" ],
+  [ "six|~6", "六", "roku|~6" ],
+  [ "seven|~7", "七", "nana|~7" ],
+  [ "eight|~8", "八", "hachi|~8" ],
+  [ "nine|~9", "九", "kyū|~9" ],
+  [ "ten|~10", "十", "jū|~10"],
   
   [ "NOTE", "( …20 is 二十, 30 is 三十, 35 is 三十五, etc.)" ]
 
