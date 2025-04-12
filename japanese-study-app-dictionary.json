@@ -54,8 +54,6 @@
   
   [ "PRONOUNS" ],
 
-  [ "NOTE", "<a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
-  
   [ "I / me|~I|~me", "わたし / 私", "watashi" ],
   [ "you (singular)|~you", "あなた", "anata" ],
   [ "he/she, him/her (\"that person\")|~he|~she|~him|~her", "あのひと", "ano hito" ],
@@ -63,6 +61,8 @@
   [ "you (plural)|~you", "あなたたち", "~anata-tachi|anata tachi|~anatatachi" ],         
   [ "they", "かれら", "kare ra|~kare-ra|~karera" ],
 
+  [ "NOTE", "<a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
+  
 
   
   [ "INTERROGATIVES" ],
