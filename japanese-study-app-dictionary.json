@@ -32,11 +32,6 @@
   [ "the day before yesterday|~day before yesterday|~two days ago", "おととい|~二日前", "ototoi|~futsuka mae" ],
   [ "the day after tomorrow|~day after tomorrow|~two days from now", "明後日", "asatte" ],
   [ "now", "今", "ima"],
-
-  [ "-----" ],
-
-  [ "this", "これ", "kore" ],
-  [ "that", "これ|あれ", "sore|are" ],
   
   [ "-----" ],
 
@@ -108,9 +103,13 @@
 
   [ "here", "ここ", "koko" ],
   [ "there", "そこ", "soko" ],
+  [ "this", "これ", "kore" ],
+  [ "that", "これ|あれ", "sore|are" ],
 
   [ "-----" ],
-  
+
+  [ "good", "良い|いね", "yoi|ine",
+  [ "bad", "悪い|よくない", "warui|yokunai" ],
   [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
   [ "cold (object)|~cold", "冷たい", "tsumetai" ],
   [ "hot", "熱い", "atsui" ],
