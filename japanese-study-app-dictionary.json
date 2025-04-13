@@ -31,10 +31,16 @@
   [ "tomorrow", "明日", "ashita" ],
   [ "the day before yesterday|~day before yesterday|~two days ago", "おととい|~二日前", "ototoi|~futsuka mae" ],
   [ "the day after tomorrow|~day after tomorrow|~two days from now", "明後日", "asatte" ],
+  [ "now", "今", "ima"],
 
   [ "-----" ],
 
-  [ "this one (while pointing)|~this one", "これです", "koredesu" ],  
+  [ "this", "これ", "kore" ],
+  [ "that", "これ|あれ", "sore|are" ],
+  
+  [ "-----" ],
+
+  [ "this one / this thing (i.e, while pointing)|~this one|~this thing", "これです", "koredesu" ],  
   [ "excellent!|~fantastic!|~very good!|~excellent|~fantastic|~very good", "すごい!|~すごい", "sugoi!" ],
   [ "cute", "かわいい", "kawai" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
