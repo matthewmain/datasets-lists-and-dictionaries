@@ -9,8 +9,6 @@
   [ "good evening", "こんばんは", "konbanwa" ],
   [ "good night", "おやすみ", "oyasumi" ],
 
-  [ "TEST", "おやすみ", "oyasumi" ],
-
   [ "-----" ],
 
   [ "yes|~yeah", "はい", "hai" ],
