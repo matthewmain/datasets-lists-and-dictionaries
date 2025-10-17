@@ -36,7 +36,7 @@
   [ "-----" ],
 
   [ "this one / this thing (i.e, while pointing)|~this one|~this thing", "これです", "koredesu" ],  
-  [ "excellent! / very|~excellent!|~very|~fantastic!|~very good!|~excellent|~fantastic|~very good", "すごい!|~すごい", "sugoi!" ],
+  [ "excellent / very|~excellent|~very|~fantastic|~very good", "すごい", "sugoi" ],
   [ "cute", "かわいい", "kawai" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
   [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
