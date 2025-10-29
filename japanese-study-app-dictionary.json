@@ -94,6 +94,7 @@
   [ "water", "水", "mizu" ],
   [ "rain", "雨", "ame" ],
   [ "snow", "雪", "yuki" ],
+  [ "ocean", "海", "umi" ],
   [ "day (date)|~day|~date", "日", "hi" ],
   [ "day (daytime)|~day|~daytime", "昼", "hiru" ],
   [ "night", "夜", "yoru" ],
