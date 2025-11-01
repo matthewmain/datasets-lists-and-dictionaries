@@ -52,6 +52,8 @@
   [ "I'm thirsty", "のどかわいた", "nodokawaita" ],
   [ "I'm hungry", "お腹すいた", "onakasuita" ],
   [ "I want to eat [ramen].|~I want to eat ramen.", "[ラーメン]を食べたい。|~ラーメンを食べたい。", "[Rāmen] o tabetai.|~Rāmen o tabetai|~Ramen o tabetai" ],
+  [ "I'm tired|~tired|", "疲れた / 私は疲れている|~疲れた|~私は疲れている", "Tsukareta / Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
+  [ "I'm sleepy|~sleepy", "私は眠い / 眠い|~私は眠い|~眠い", "Watashi wa nemui / nemui|~Watashi wa nemui|~nemui" ],
 
   
   [ "PRONOUNS   <br><a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
