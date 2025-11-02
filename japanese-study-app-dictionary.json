@@ -49,11 +49,11 @@
   [ "I like [ramen].|~I like ramen.", "私は[ラーメン]が好きです。|~私はラーメンが好きです。", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu.|~Watashi wa ramen ga sukidesu." ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
   [ "I love you.", "愛してます。|愛してる。", "Aishitemasu.|Aishiteru." ],
-  [ "I'm thirsty", "のどかわいた", "nodokawaita" ],
-  [ "I'm hungry", "お腹すいた", "onakasuita" ],
+  [ "I'm thirsty", "のどかわいた", "Nodokawaita" ],
+  [ "I'm hungry", "お腹すいた", "Onakasuita" ],
   [ "I want to eat [ramen].|~I want to eat ramen.", "[ラーメン]を食べたい。|~ラーメンを食べたい。", "[Rāmen] o tabetai.|~Rāmen o tabetai|~Ramen o tabetai" ],
-  [ "I'm tired|~tired|", "疲れた / 私は疲れている|~疲れた|~私は疲れている", "tsukareta / Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
-  [ "I'm sleepy|~sleepy", "私は眠い / 眠い|~私は眠い|~眠い", "nemui / Watashi wa nemui |~Nemui|~Watashi wa nemui" ],
+  [ "I'm tired|~Tired|", "疲れた / 私は疲れている|~疲れた|~私は疲れている", "Tsukareta / Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
+  [ "I'm sleepy|~Sleepy", "私は眠い / 眠い|~私は眠い|~眠い", "Nemui / Watashi wa nemui |~Nemui|~Watashi wa nemui" ],
 
   
   [ "PRONOUNS   <br><a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
