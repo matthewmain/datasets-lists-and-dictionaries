@@ -28,10 +28,10 @@
 
   [ "What is your name?|~What's your name?", "あなたの名前は何ですか？", "Anata no namae wa nandesuka?" ],
   [ "My name is Matthew|~My name's Matthew", "私の名前はマシューです", "Watashino namae wa Mashū desu|~Watashino namae wa Mashu desu" ],
-  [ "Where are you from?", "出身 和 どこ です か？", "Shusshin wa doko desu ka?" ],
-  [ "I'm from America", "私 和 アメリカ 出身 です", "Watashi wa America shusshin desu" ],
-  [ "I'm American", "私 和 アメリカ じん です", "Watashi wa amerika jin desu" ],
-  [ "We're checking in|~We are checking in|~Checking in", "チェックイン したい です", "Chekkuin shitai desu" ],
+  [ "Where are you from?", "出身はどこですか？", "Shusshin wa doko desu ka?" ],
+  [ "I'm from America", "私はアメリカ出身です", "Watashi wa America shusshin desu" ],
+  [ "I'm American", "私はアメリカ人です", "Watashi wa amerika jin desu" ],
+  [ "We're checking in|~We are checking in|~Checking in", "チェックインしたいです", "Chekkuin shitai desu" ],
   
   [ "-----" ],
   
