@@ -27,7 +27,7 @@
   [ "-----" ],
 
   [ "What is your name?|~What's your name?", "あなたの名前は何ですか？", "Anata no namae wa nandesuka?" ],
-  [ "My name is Matthew.", "私の名前はマシューです。", "Watashino namaeha Mashū desu.|~Watashino namaeha Mashu desu." ],
+  [ "My name is Matthew.", "私の名前はマシューです。", "Watashino namae wa Mashū desu.|~Watashino namae wa Mashu desu." ],
  
   
   [ "-----" ],
