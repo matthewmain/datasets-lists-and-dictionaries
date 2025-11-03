@@ -12,8 +12,8 @@
   [ "-----" ],
 
   [ "yes|~yeah", "はい", "hai" ],
-  [ "no|~it's nothing|~you're welcome", "いいえ|じゃない", "īe|~ie|janai" ],
-  [ "not", "じゃない", "janai" ],
+  [ "no|not", "じゃない", "janai" ],
+  [ "no|it's nothing|you're welcome", "いいえ|じゃない", "īe|~ie|janai" ],
 
   [ "-----" ],
   
