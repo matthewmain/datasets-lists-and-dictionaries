@@ -13,7 +13,7 @@
 
   [ "yes|~yeah", "はい", "hai" ],
   [ "no|not", "じゃない", "janai" ],
-  [ "no|it's nothing|you're welcome", "いいえ|じゃない", "īe|~ie|janai" ],
+  [ "no|it's nothing|you're welcome", "いいえ|~じゃない", "īe|~ie|~janai" ],
 
   [ "-----" ],
   
