@@ -45,7 +45,7 @@
   [ "thank you for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
   [ "I understand", "わかります", "Wakari mas" ],
   [ "I don't understand", "わかりません", "Wakari masen" ],
-  [ "I speak Japanese poorly", "私は日本語が下手です", "Watashi wa nihongo ga hetadesu" ],
+  [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese very", "私は日本語が下手です", "Watashi wa nihongo ga hetadesu" ],
   [ "I like [ramen].|~I like ramen", "私は[ラーメン]が好きです。|~私はラーメンが好きです", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu.|~Watashi wa ramen ga sukidesu" ],
   [ "I want to eat [ramen].|~I want to eat ramen", "[ラーメン]を食べたい。|~ラーメンを食べたい", "[Rāmen] ga tabetai.|[Rāmen] o tabetai.|~Ramen ga tabetai.|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
