@@ -35,7 +35,7 @@
   
   [ "-----" ],
   
-  [ "this one / this thing (i.e, while pointing)|~this one|~this thing", "これです", "koredesu" ],  
+  [ "this one / this thing (i.e., while pointing)|~this one|~this thing", "これです", "koredesu" ],  
   [ "excellent / very|~excellent|~very|~fantastic|~very good", "すごい", "sugoi" ],
   [ "cute", "かわいい", "kawai" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
@@ -46,10 +46,10 @@
   [ "I understand", "わかります", "Wakari mas" ],
   [ "I don't understand", "わかりません", "Wakari masen" ],
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese very", "私は日本語が下手です", "Watashi wa nihongo ga hetadesu" ],
-  [ "I like [ramen].|~I like ramen", "私は[ラーメン]が好きです。|~私はラーメンが好きです", "Watashi wa [rāmen] ga sukidesu.|~Watashi wa rāmen ga sukidesu.|~Watashi wa ramen ga sukidesu" ],
-  [ "I want to eat [ramen].|~I want to eat ramen", "[ラーメン]を食べたい。|~ラーメンを食べたい", "[Rāmen] ga tabetai.|[Rāmen] o tabetai.|~Ramen ga tabetai.|~Ramen o tabetai" ],
+  [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga sukidesu|~Watashi wa rāmen ga sukidesu|~Watashi wa ramen ga sukidesu" ],
+  [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
-  [ "I love you", "愛してます。|愛してる", "Aishitemasu.|Aishiteru" ],
+  [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
   [ "I'm thirsty", "のどかわいた", "Nodokawaita" ],
   [ "I'm hungry", "お腹すいた", "Onakasuita" ],
   [ "I'm tired|~Tired", "疲れた|私は疲れている|~疲れた|~私は疲れている", "Tsukareta|Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
