@@ -27,7 +27,7 @@
   [ "-----" ],
 
   [ "What is your name?|~What's your name?", "あなたの名前は何ですか？", "Anata no namae wa nandesuka?" ],
-  [ "My name is Matthew|~My name's Matthew", "私の名前はマシューです", "Watashino namae wa Mashū desu|~Watashino namae wa Mashu desu" ],
+  [ "My name is Matthew|~My name's Matthew", "私の名前はマシューです", "Watashino namae wa Mashū desu|~Watashino namae wa Mashu desu|~Watashino namae wa Matthew desu|" ],
   [ "Where are you from?", "出身はどこですか？", "Shusshin wa doko desu ka?" ],
   [ "I'm from America", "私はアメリカ出身です", "Watashi wa America shusshin desu" ],
   [ "I'm American", "私はアメリカ人です", "Watashi wa amerika jin desu" ],
