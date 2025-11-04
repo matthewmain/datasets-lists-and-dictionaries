@@ -134,8 +134,9 @@
   [ "moon|~month", "月", "tsuki" ],
   [ "mountain", "山|山", "yama|san" ],
   [ "tree", "木", "ki" ],
-  [ "forest|~wood", "森", "mori" ],
-  
+  [ "forest|~woods|~wood", "森", "mori" ],
+  [ "wood", "木材", "mokuzai" ],
+
 
   
   [ "VERBS" ],
