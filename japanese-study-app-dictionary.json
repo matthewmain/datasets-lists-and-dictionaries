@@ -54,8 +54,8 @@
   [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
   [ "I'm thirsty", "のどかわいた", "Nodokawaita" ],
   [ "I'm hungry", "お腹すいた", "Onakasuita" ],
-  [ "I'm tired|~Tired", "疲れた|私は疲れている|~疲れた|~私は疲れている", "Tsukareta|Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
-  [ "I'm sleepy|~Sleepy|~I'm tired|~tired", "私は眠い|眠い|~私は眠い|~眠い", "Nemui|Watashi wa nemui|~Nemui|~Watashi wa nemui" ],
+  [ "I'm tired|~tired", "疲れた|私は疲れている|~疲れた|~私は疲れている", "Tsukareta|Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
+  [ "I'm sleepy|~sleepy|~I'm tired|~tired", "私は眠い|眠い|~私は眠い|~眠い", "Nemui|Watashi wa nemui|~Nemui|~Watashi wa nemui" ],
   
   [ "-----" ],
 
@@ -114,11 +114,6 @@
   [ "year", "年", "toshi" ],
   
   [ "-----" ],
-
-  [ "a little", "ちょと", "choto" ],
-  [ "a lot", "たくさん", "takusan" ],
-  
-  [ "-----" ],
   
   [ "food", "食べ物", "tabemono" ],
   [ "water", "水", "mizu" ],
@@ -152,18 +147,22 @@
   [ "that", "これ|あれ", "sore|are" ],
 
   [ "-----" ],
+  
+  [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
+  [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
+  [ "a little / a few|~a little|~a few", "ちょと / いくつか|~ちょと|~いくつか", "choto / ukutsu ka|~choto|~ukutsu ka" ],
+  [ "a lot of / many", "多い / 沢山", "ōi / takusan|~oi|~takusan" ],
+  [ "all", "全て", "subete" ],
 
+  [ "-----" ],
+  
   [ "good", "良い|いね", "yoi|ine" ],
   [ "bad", "悪い|よくない", "warui|yokunai" ],
   [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
   [ "cold (object)|~cold", "冷たい", "tsumetai" ],
   [ "hot", "熱い", "atsui" ],
-  [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
-  [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
-  [ "many", "多い", "ōi|~oi" ],
-  [ "all", "全て", "subete" ],
 
-
+  
   [ "NUMBERS" ],
   
   [ "zero|~0", "ゼロ", "zero|~0" ],
