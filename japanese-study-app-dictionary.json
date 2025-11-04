@@ -155,7 +155,7 @@
   [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
   [ "a little", "ちょと", "choto" ],
   [ "a few", "いくつか", "ikutsu ka" ],
-  [ "a lot of / many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
+  [ "a lot of / many|~a lot of|~a lot|~many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
   [ "all", "全部", "zembu" ],
 
   [ "-----" ],
