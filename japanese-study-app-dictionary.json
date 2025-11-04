@@ -53,7 +53,7 @@
   [ "I'm thirsty", "のどかわいた", "Nodokawaita" ],
   [ "I'm hungry", "お腹すいた", "Onakasuita" ],
   [ "I'm tired|~Tired", "疲れた|私は疲れている|~疲れた|~私は疲れている", "Tsukareta|Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
-  [ "I'm sleepy|~Sleepy", "私は眠い|眠い|~私は眠い|~眠い", "Nemui|Watashi wa nemui|~Nemui|~Watashi wa nemui" ],
+  [ "I'm sleepy|~Sleepy|~I'm tired|~tired", "私は眠い|眠い|~私は眠い|~眠い", "Nemui|Watashi wa nemui|~Nemui|~Watashi wa nemui" ],
   
   [ "-----" ],
 
