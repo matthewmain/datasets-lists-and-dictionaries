@@ -23,6 +23,7 @@
   [ "you're welcome (formal)|~you're welcome|", "どういたしまして", "dōitashimashite|~doitashimashite" ],
   [ "I'm sorry|", "ごめんなさい", "gomen'nasai|~gomennasai" ],
   [ "excuse me|~pardon me", "すみません", "sumimasen" ],
+  [ "welcome", "いらっしゃいませ", "irasshaimase" ],
     
   [ "-----" ],
 
@@ -103,14 +104,27 @@
   [ "English", "英語","Eigo"],
   [ "Japan", "日本", "Nihon" ],
   [ "Japanese", "日本語", "nihongo" ],
+  
+  [ "-----" ],
+
+  [ "day (daytime)|~day|~daytime", "昼", "hiru" ],
+  [ "night", "夜", "yoru" ],
+  [ "day (date)|~day|~date", "日", "hi" ],
+  [ "month|~moon", "月", "tsuki" ],
+  [ "year", "年", "toshi" ],
+  
+  [ "-----" ],
+
+  [ "a little", "ちょと", "choto" ],
+  [ "a lot", "たくさん", "takusan" ],
+  
+  [ "-----" ],
+  
   [ "food", "食べ物", "tabemono" ],
   [ "water", "水", "mizu" ],
   [ "rain", "雨", "ame" ],
   [ "snow", "雪", "yuki" ],
   [ "ocean", "海", "umi" ],
-  [ "day (date)|~day|~date", "日", "hi" ],
-  [ "day (daytime)|~day|~daytime", "昼", "hiru" ],
-  [ "night", "夜", "yoru" ],
   [ "pear", "梨", "nashi" ],
   [ "constipation", "便秘", "benpi" ],
   [ "constellation", "星座", "seiza" ],
@@ -118,6 +132,12 @@
   [ "shoe / shoes|~shoe|~shoes", "靴", "kutsu" ],
   [ "mushroom", "きのこ", "kinoko" ],
   [ "reservation", "予約", "Yoyaku" ],
+  [ "dog", "犬", "inu" ],
+  [ "cat", "猫", "neko" ],
+  [ "bird", "鳥", "tori" ],
+  [ "sun", "太陽", "taiyō|~taiyo" ],
+  [ "moon|~month", "月", "tsuki" ],
+  [ "mountain", "山|山", "yama|san" ],
 
   
   [ "VERBS" ],
@@ -138,9 +158,12 @@
   [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
   [ "cold (object)|~cold", "冷たい", "tsumetai" ],
   [ "hot", "熱い", "atsui" ],
+  [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
+  [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
+  [ "many", "多い", "ōi|~oi" ],
+  [ "all", "全て", "subete" ],
 
 
-  
   [ "NUMBERS" ],
   
   [ "zero|~0", "ゼロ", "zero|~0" ],
