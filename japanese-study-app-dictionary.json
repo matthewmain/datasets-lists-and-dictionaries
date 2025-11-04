@@ -23,7 +23,7 @@
   [ "you're welcome (formal)|~you're welcome|", "どういたしまして", "dōitashimashite|~doitashimashite" ],
   [ "I'm sorry|", "ごめんなさい", "gomen'nasai|~gomennasai" ],
   [ "excuse me|~pardon me", "すみません", "sumimasen" ],
-  [ "welcome", "いらっしゃいませ", "irasshaimase" ],
+  [ "welcome", "いらっしゃいませ|よこそ", "irasshaimase|yokoso" ],
     
   [ "-----" ],
 
@@ -110,7 +110,7 @@
   [ "day (daytime)|~day|~daytime", "昼", "hiru" ],
   [ "night", "夜", "yoru" ],
   [ "day (date)|~day|~date", "日", "hi" ],
-  [ "month|~moon", "月", "tsuki" ],
+  [ "month|~moon", "月|月", "tsuki|gatsu" ],
   [ "year", "年", "toshi" ],
   
   [ "-----" ],
@@ -153,9 +153,10 @@
   
   [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
   [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
-  [ "a little / a few|~a little|~a few", "ちょと|いくつか", "choto|ikutsu ka" ],
-  [ "a lot of / many", "多い|沢山", "ōi|takusan|~oi" ],
-  [ "all", "全て", "subete" ],
+  [ "a little", "ちょと", "choto" ],
+  [ "a few", "いくつか", "ikutsu ka" ],
+  [ "a lot of / many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
+  [ "all", "全部", "zembu" ],
 
   [ "-----" ],
   
