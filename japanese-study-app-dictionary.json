@@ -41,7 +41,7 @@
   [ "cute", "かわいい", "kawai" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
   [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
-  [ "so / right|~so||~right|~that's right", "そだ / そ", "soda / so|~soda|~so|~so" ],
+  [ "so / right|~so|~right|~that's right", "そうだ / そう", "souda / sou|~souda|~sou" ],
   [ "like (filler word)|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
   [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
   [ "thank you for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
