@@ -168,8 +168,8 @@
   [ "hot", "熱い", "atsui" ],
   [ "happy", "嬉しい", "ureshī|~ureshi" ],
   [ "sad", "悲しい", "kanashī|~kanashi" ],
-  [ "angry", "怒り", "ikari" ],
-  [ "delicious", "美味しい", "oishī|~oishi" ],
+  [ "angry|~mad", "怒り", "ikari" ],
+  [ "delicious|~tasty", "美味しい", "oishī|~oishi" ],
   
 
   
