@@ -136,7 +136,7 @@
   [ "tree", "木", "ki" ],
   [ "forest|~woods|~wood", "森", "mori" ],
   [ "wood", "木材", "mokuzai" ],
-
+  [ "egg", "卵", "tamago" ],
 
   
   [ "VERBS" ],
