@@ -24,6 +24,7 @@
   [ "I'm sorry|", "ごめんなさい", "gomen'nasai|~gomennasai" ],
   [ "excuse me|~pardon me", "すみません", "sumimasen" ],
   [ "welcome", "いらっしゃいませ|よこそ", "irasshaimase|yokoso" ],
+  [ "nice to meet you|~it's nice to meet you", "はじめまして", "hajimemashite" ],
     
   [ "-----" ],
 
@@ -41,6 +42,7 @@
   [ "cute", "かわいい", "kawai" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
   [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
+  [ "correct", "合ってる", "atteru" ],
   [ "so / right|~so|~right|~that's right", "そうだ / そう", "souda / sou|~souda|~sou" ],
   [ "like (filler word)|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
   [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
