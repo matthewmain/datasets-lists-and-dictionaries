@@ -72,7 +72,7 @@
   
   [ "I / me|~I|~me", "わたし / 私", "watashi" ],
   [ "you (singular)|~you", "あなた", "anata" ],
-  [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they", "あのひと", "ano hito" ],
+  [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "ano hito" ],
   [ "we|us", "わたしたち / 私たち", "watashi tachi|~watashitachi" ],
   [ "you (plural)|~you|you all", "あなたたち", "anata tachi|~anatatachi" ],         
   [ "they", "かれら", "kare ra|~kare-ra|~karera" ],
