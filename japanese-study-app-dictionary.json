@@ -113,6 +113,10 @@
   [ "day (date)|~day|~date", "日", "hi" ],
   [ "month|~moon", "月|月", "tsuki|gatsu" ],
   [ "year", "年", "toshi" ],
+  [ "spring", "春", "haru" ],
+  [ "summer", "夏", "natsu" ],
+  [ "autumn / fall|~autumn|~fall", "秋", "aki" ],
+  [ "winter", "冬", "fuyu" ],
   
   [ "-----" ],
   
