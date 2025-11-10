@@ -125,7 +125,7 @@
   [ "rain", "雨", "ame" ],
   [ "snow", "雪", "yuki" ],
   [ "ocean", "海", "umi" ],
-  [ "pear", "梨", "nashi" ],
+  [ "pear", "梨", "nashi (fruit)|~nashi" ],
   [ "constipation", "便秘", "benpi" ],
   [ "constellation", "星座", "seiza" ],
   [ "cow", "牛|~うし", "ushi" ],
@@ -163,6 +163,7 @@
   [ "a few", "いくつか", "ikutsu ka" ],
   [ "a lot of / many|~a lot of|~a lot|~many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
   [ "all", "全部", "zembu" ],
+  [ "none", "なし", "nashi (amount)|~nashi" ],
 
   [ "-----" ],
   
