@@ -53,8 +53,8 @@
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
   [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
-  [ "I'm thirsty", "のどかわいた", "Nodokawaita" ],
-  [ "I'm hungry", "お腹すいた", "Onakasuita" ],
+  [ "I'm thirsty|~thirsty", "のどかわいた", "Nodokawaita" ],
+  [ "I'm hungry|~hungry", "お腹すいた", "Onakasuita" ],
   [ "I'm tired|~tired", "疲れた|私は疲れている|~疲れた|~私は疲れている", "Tsukareta|Watashi wa tsukarete iru|~Tsukareta|~Watashi wa tsukarete iru" ],
   [ "I'm sleepy|~sleepy|~I'm tired|~tired", "私は眠い|眠い|~私は眠い|~眠い", "Nemui|Watashi wa nemui|~Nemui|~Watashi wa nemui" ],
   
