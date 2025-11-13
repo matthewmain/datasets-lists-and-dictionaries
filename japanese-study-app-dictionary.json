@@ -154,7 +154,30 @@
   [ "there", "そこ", "soko" ],
   [ "this", "これ", "kore" ],
   [ "that", "これ|あれ", "sore|are" ],
-
+  
+  [ "-----" ],
+  
+  [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
+  [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
+  [ "a little", "ちょと", "choto" ],
+  [ "a few", "いくつか", "ikutsu ka" ],
+  [ "a lot of / many|~a lot of|~a lot|~many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
+  [ "all", "全部", "zembu" ],
+  [ "none", "なし", "nashi (amount)|~nashi" ],
+  
+  [ "-----" ],
+  
+  [ "good", "良い|いね", "yoi|ine" ],
+  [ "bad", "悪い|よくない", "warui|yokunai" ],
+  [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
+  [ "cold (object)|~cold", "冷たい", "tsumetai" ],
+  [ "hot", "熱い", "atsui" ],
+  [ "happy", "嬉しい|幸せ", "ureshī|shiawase|~ureshi|" ],
+  [ "sad", "悲しい", "kanashī|~kanashi" ],
+  [ "angry|~mad", "怒り", "ikari" ],
+  [ "fast", "早い", "hayai" ],
+  [ "slow", "遅い", "osoi" ],
+  
   [ "-----" ],
 
   [ "red", "赤", "aka" ],
@@ -171,28 +194,7 @@
   
   [ "-----" ],
   
-  [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
-  [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
-  [ "a little", "ちょと", "choto" ],
-  [ "a few", "いくつか", "ikutsu ka" ],
-  [ "a lot of / many|~a lot of|~a lot|~many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
-  [ "all", "全部", "zembu" ],
-  [ "none", "なし", "nashi (amount)|~nashi" ],
-
-  [ "-----" ],
-  
-  [ "good", "良い|いね", "yoi|ine" ],
-  [ "bad", "悪い|よくない", "warui|yokunai" ],
-  [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
-  [ "cold (object)|~cold", "冷たい", "tsumetai" ],
-  [ "hot", "熱い", "atsui" ],
-  [ "happy", "嬉しい|幸せ", "ureshī|shiawase|~ureshi|" ],
-  [ "sad", "悲しい", "kanashī|~kanashi" ],
-  [ "angry|~mad", "怒り", "ikari" ],
   [ "delicious|~tasty", "美味しい", "oishī|~oishi" ],
-  [ "fast", "早い", "hayai" ],
-  [ "slow", "遅い", "osoi" ],
-  
 
   
   [ "NUMBERS" ],
