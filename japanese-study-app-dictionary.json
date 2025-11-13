@@ -156,6 +156,20 @@
   [ "that", "これ|あれ", "sore|are" ],
 
   [ "-----" ],
+
+  [ "red", "赤", "aka" ],
+  [ "blue", "青", "ao" ],
+  [ "yellow", "黄色", "kiiro" ],
+  [ "purple|~violet", "紫", "murasaki" ],
+  [ "green", "緑", "midori" ],
+  [ "orange", "オレンジ", "orenji" ],
+  [ "pink", "ピンク", "pinku" ],
+  [ "brown", "茶色", "chairo" ],
+  [ "black", "黒", "kuro" ],
+  [ "white", "白", "shiro" ],
+  [ "gray", "グレー", "gurē" ],
+  
+  [ "-----" ],
   
   [ "small / little|~small|~little", "小さい", "chīsai|~chisai" ],
   [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
