@@ -92,11 +92,12 @@
 
 
   
-  [ "CONJUNCTIONS & PREPOSITIONS" ],
+  [ "CONJUNCTIONS, PREPOSITIONS, ADVERBS" ],
   
   [ "and", "と", "to" ],
   [ "or", "または", "matawa" ],
   [ "but", "でも", "demo"],
+  [ "also / too|~also|~too", "また", "mata"],
 
 
   
@@ -142,11 +143,13 @@
   [ "forest|~woods|~wood", "森", "mori" ],
   [ "wood", "木材", "mokuzai" ],
   [ "egg", "卵", "tamago" ],
-
+  [ "color", "色", "iro" ],
+  
   
   [ "VERBS" ],
 
   [ "I want!|~I want", "私欲しい", "Watashi hoshī!|~watashi hoshi|~watashi hoshi" ],
+  
   
   [ "ADJECTIVES" ],
 
