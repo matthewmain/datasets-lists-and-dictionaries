@@ -180,8 +180,8 @@
   [ "angry|~mad", "怒り", "ikari" ],
   [ "fast", "早い", "hayai" ],
   [ "slow", "遅い", "osoi" ],
-  [ "skinny", "もやし", "moyashi" ],
-  [ "fat", "肪", "shibō|~shibo" ],
+  [ "skinny / thin|~skinny|~thin", "ほそい", "hosoi" ],
+  [ "fat (body shape)|~fat", "でぶ", "debu" ],
   
   [ "-----" ],
 
