@@ -94,10 +94,11 @@
   
   [ "CONJUNCTIONS, PREPOSITIONS, ADVERBS" ],
   
-  [ "and", "と", "to" ],
+  [ "and / with|~and|~with", "と", "to" ],
   [ "or", "または", "matawa" ],
   [ "but", "でも", "demo"],
-  [ "also / too|~also|~too", "また", "mata"],
+  [ "also", "それと", "soreto"],
+  [ "too", "も", "mo"],
 
 
   
