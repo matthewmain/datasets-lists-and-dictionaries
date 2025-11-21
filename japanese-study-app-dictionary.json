@@ -17,8 +17,8 @@
 
   [ "-----" ],
 
-  [ "mom | mother", "母|母親|お母さん", "haha (casual descriptive)|hahaoya (formal descriptive)|okaa-san (addressive)|~haha|~hahaoya|~okaasan" ],
-  [ "dad | father", "父|父親|お父さん", "chichi (casual descriptive)|chichioya (formal descriptive)|oto-san (addressive)|~chichi|~chichioya|~otoasan" ],
+  [ "mom / mother", "母|母親|お母さん", "haha (casual descriptive)|hahaoya (formal descriptive)|okaa-san (addressive)|~haha|~hahaoya|~okaasan" ],
+  [ "dad / father", "父|父親|お父さん", "chichi (casual descriptive)|chichioya (formal descriptive)|oto-san (addressive)|~chichi|~chichioya|~otoasan" ],
   [ "sister", "", "" ],
   [ "brother", "", "" ],
   [ "daughter", "", "" ],
