@@ -12,7 +12,8 @@
   [ "-----" ],
 
   [ "yes|~yeah", "はい", "hai" ],
-  [ "not (re. adjective or noun)|not (re. adjective)", "じゃない|くない", "janai|kunai" ],
+  [ "not (re. adjective or noun)|", "じゃない", "janai|~kunai" ],
+  [ "not (re. adjective)", "くない", "kunai" ],
   [ "no|it's nothing|you're welcome", "いいえ|~じゃない", "īe|~ie|~janai" ],
 
   [ "-----" ],
