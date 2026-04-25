@@ -82,7 +82,7 @@
   
   [ "PRONOUNS   <br><a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
   
-  [ "I / me|~I|~me", "わたし / 私", "watashi" ],
+  [ "I / me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
   [ "you (singular)|~you", "あなた", "anata" ],
   [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "ano hito" ],
   [ "we|us", "わたしたち / 私たち", "watashi tachi|~watashitachi" ],
@@ -161,7 +161,9 @@
   [ "child", "子供", "kodomo" ],
   [ "candle", "キャンドル|ろうそく", "kyandoru|rōsoku|~rosoku" ],
   [ "light (noun; i.e., electric light)|electricity|~light|", "電気", "denki" ],
-  
+  [ "teacher / master|~teacher|~master", "先生", "sensei" ],
+  [ "student", "学生|生徒", "gakusei (noun, third person)|seito (pronoun, second person)|~gakusei|~seito" ],
+
 
   
   [ "VERBS" ],
