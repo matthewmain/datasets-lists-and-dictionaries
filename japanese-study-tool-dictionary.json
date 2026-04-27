@@ -3,7 +3,7 @@
   
   [ "COMMON PHRASES" ],
   
-  [ "hello|~hi|good day / good afternoon", "こんにちは", "kon'nichiwa|~konnichiwa" ],
+  [ "hello|~hi|good day / good afternoon", "こんにちは", "kon'nichiwa|~konnichiwa|~konichiwa" ],
   [ "goodbye / see you|~goodbye|~bye|~see you", "じゃあね|またね", "jāne|matane|~jane" ],
   [ "good morning", "おはよう", "ohayō|~ohayo" ],
   [ "good evening", "こんばんは", "konbanwa" ],
@@ -12,18 +12,9 @@
   [ "-----" ],
 
   [ "yes|~yeah", "はい", "hai" ],
+  [ "no|it's nothing|you're welcome", "いいえ|~じゃない", "īe|~ie|~janai" ],
   [ "not (re. adjective or noun)|", "じゃない", "janai|~kunai" ],
   [ "not (re. adjective)", "くない", "kunai" ],
-  [ "no|it's nothing|you're welcome", "いいえ|~じゃない", "īe|~ie|~janai" ],
-
-  [ "-----" ],
-
-  [ "mom / mother|~mom|~mother", "母|母親|お母さん", "haha (casual descriptive)|hahaoya (formal descriptive)|okaa-san (addressive)|~haha|~hahaoya|~okaasan" ],
-  [ "dad / father|~dad|~father", "父|父親|お父さん", "chichi (casual descriptive)|chichioya (formal descriptive)|oto-san (addressive)|~chichi|~chichioya|~otoasan" ],
-  [ "sister", "妹", "imōto|~imoto" ],
-  [ "brother", "兄弟", "kyōdai|~kyodai" ],
-  [ "daughter", "娘", "musume" ],
-  [ "son", "息子", "musuko" ],
   
   [ "-----" ],
   
@@ -60,7 +51,7 @@
   [ "I understand", "わかります", "Wakari mas" ],
   [ "I don't understand", "わかりません", "Wakari masen" ],
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
-  [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga sukidesu|~Watashi wa rāmen ga sukidesu|~Watashi wa ramen ga suki desu" ],
+  [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga suki desu|~Watashi wa rāmen ga suki desu|~Watashi wa ramen ga suki desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
   [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
@@ -131,6 +122,22 @@
   [ "summer", "夏", "natsu" ],
   [ "autumn / fall|~autumn|~fall", "秋", "aki" ],
   [ "winter", "冬", "fuyu" ],
+  
+  [ "-----" ],
+
+  [ "mom / mother|~mom|~mother", "母|母親|お母さん", "haha (casual descriptive)|hahaoya (formal descriptive)|okaa-san (addressive)|~haha|~hahaoya|~okaasan" ],
+  [ "dad / father|~dad|~father", "父|父親|お父さん", "chichi (casual descriptive)|chichioya (formal descriptive)|oto-san (addressive)|~chichi|~chichioya|~otoasan" ],
+  [ "sister", "妹", "imōto|~imoto" ],
+  [ "brother", "兄弟", "kyōdai|~kyodai" ],
+  [ "daughter", "娘", "musume" ],
+  [ "son", "息子", "musuko" ],
+    
+  [ "-----" ],
+
+  [ "man|~guy", "男", "otoko" ],
+  [ "woman", "女性", "josoi" ],
+  [ "boy", "男の子", "otokonoko" ],
+  [ "girl", "女の子", "on'nanoko|~onnanoko|~onanoko" ],
   
   [ "-----" ],
   
