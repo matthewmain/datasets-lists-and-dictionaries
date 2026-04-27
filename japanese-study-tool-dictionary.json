@@ -106,10 +106,11 @@
 
   
   [ "NOUNS" ],
-  
-  [ "English", "英語","Eigo"],
+
   [ "Japan", "日本", "Nihon" ],
   [ "Japanese", "日本語", "nihongo" ],
+  [ "America", "アメリカ","Amerika"],
+  [ "English", "英語","Eigo"],
   
   [ "-----" ],
 
@@ -200,7 +201,7 @@
   [ "none", "なし", "nashi (amount)|~nashi" ],
   
   [ "-----" ],
-  
+
   [ "good", "良い|いね", "yoi|ine" ],
   [ "bad", "悪い|よくない", "warui|yokunai" ],
   [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
@@ -209,6 +210,7 @@
   [ "warm", "暖かい", "attakai" ],
   [ "happy", "嬉しい|幸せ", "ureshī|shiawase|~ureshi|" ],
   [ "sad", "悲しい", "kanashī|~kanashi" ],
+  [ "delicious|~tasty", "美味しい", "oishī|~oishi" ],
   [ "angry|~mad", "怒り", "ikari" ],
   [ "fast", "早い", "hayai" ],
   [ "slow", "遅い", "osoi" ],
@@ -231,8 +233,7 @@
   [ "gray", "グレー", "gurē|~gure" ],
   
   [ "-----" ],
-  
-  [ "delicious|~tasty", "美味しい", "oishī|~oishi" ],
+
 
   
   [ "NUMBERS" ],
