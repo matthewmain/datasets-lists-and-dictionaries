@@ -115,6 +115,14 @@
   [ "summer", "夏", "natsu" ],
   [ "autumn / fall|~autumn|~fall", "秋", "aki" ],
   [ "winter", "冬", "fuyu" ],
+
+    [ "-----" ],
+
+  [ "person", "人", "hito" ],
+  [ "man|~guy", "男", "otoko" ],  
+  [ "woman", "女", "on'na|~onna|~ona" ],
+  [ "boy", "男の子", "otokonoko" ],
+  [ "girl", "女の子", "on'nanoko|~onnanoko|~onanoko" ],
   
   [ "-----" ],
 
@@ -124,13 +132,6 @@
   [ "brother", "兄弟", "kyōdai|~kyodai" ],
   [ "daughter", "娘", "musume" ],
   [ "son", "息子", "musuko" ],
-    
-  [ "-----" ],
-
-  [ "man|~guy", "男", "otoko" ],
-  [ "woman", "女", "on'na|~onna|~ona" ],
-  [ "boy", "男の子", "otokonoko" ],
-  [ "girl", "女の子", "on'nanoko|~onnanoko|~onanoko" ],
   
   [ "-----" ],
   
