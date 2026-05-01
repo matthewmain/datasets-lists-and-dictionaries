@@ -97,7 +97,8 @@
 
   [ "like / similar to|~like|~similar to", "似ている", "niteiru"],
 
-
+  [ "left", "左", "hidari"],
+  [ "right", "右", "migi"],
   
   [ "NOUNS" ],
 
