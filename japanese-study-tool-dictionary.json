@@ -88,17 +88,23 @@
 
   
   [ "CONJUNCTIONS, PREPOSITIONS, ADVERBS" ],
-  
+
   [ "and / with|~and|~with", "と", "to" ],
-  [ "or", "または", "matawa" ],
-  [ "but", "でも", "demo"],
   [ "also / plus|~also|~plus", "それと", "soreto"],
   [ "too", "も", "mo"],
-
+  [ "or", "または", "matawa" ],
+  [ "but", "でも", "demo"],
+  
+  [ "-----" ],
+  
   [ "like / similar to|~like|~similar to", "似ている", "niteiru"],
 
+  [ "-----" ],
+  
   [ "left", "左", "hidari"],
   [ "right", "右", "migi"],
+
+
   
   [ "NOUNS" ],
 
