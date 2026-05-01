@@ -118,7 +118,7 @@
   [ "autumn / fall|~autumn|~fall", "秋", "aki" ],
   [ "winter", "冬", "fuyu" ],
 
-    [ "-----" ],
+  [ "-----" ],
 
   [ "person", "人", "hito" ],
   [ "man|~guy", "男", "otoko" ],  
@@ -169,7 +169,7 @@
   [ "money", "お金", "okane" ],
   [ "problem", "問題", "mondai" ],
   [ "house", "家", "ie" ],
-  
+  [ "word", "単語", "tango" ],
   
 
   
@@ -180,6 +180,10 @@
   [ "I don't understand", "わかりません", "Wakari masen" ],
   [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga suki desu|~Watashi wa rāmen ga suki desu|~Watashi wa ramen ga suki desu" ],
   [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
+    
+  [ "-----" ],
+  
+  [ "remember", "覚えてる", "oboeteru" ],
 
   
   [ "ADJECTIVES" ],
