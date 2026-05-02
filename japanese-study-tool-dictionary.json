@@ -132,6 +132,7 @@
   [ "woman", "女", "on'na|~onna|~ona" ],
   [ "boy", "男の子", "otokonoko" ],
   [ "girl", "女の子", "on'nanoko|~onnanoko|~onanoko" ],
+  [ "baby", "赤ちゃん", "akachan" ],
   
   [ "-----" ],
 
@@ -177,6 +178,8 @@
   [ "problem", "問題", "mondai" ],
   [ "house", "家", "ie" ],
   [ "word", "単語", "tango" ],
+  [ "lie (untruth)|~lie", "嘘", "uso" ],
+  [ "liar", "嘘つき", "usotsuki" ],
   
 
   
