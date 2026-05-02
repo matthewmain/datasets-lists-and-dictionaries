@@ -47,12 +47,6 @@
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
-  [ "today", "今日", "kyo|~kyō" ],
-  [ "yesterday", "昨日", "kino|kinō" ],
-  [ "tomorrow", "明日", "ashita" ],
-  [ "the day before yesterday|~day before yesterday|~two days ago", "おととい|~二日前", "ototoi|~futsuka mae" ],
-  [ "the day after tomorrow|~day after tomorrow|~two days from now", "明後日", "asatte" ],
-  [ "now", "今", "ima"],
 
 
   
@@ -120,6 +114,15 @@
 
   [ "-----" ],
 
+  [ "today", "今日", "kyo|~kyō" ],
+  [ "yesterday", "昨日", "kino|kinō" ],
+  [ "tomorrow", "明日", "ashita" ],
+  [ "the day before yesterday|~day before yesterday|~two days ago", "おととい|~二日前", "ototoi|~futsuka mae" ],
+  [ "the day after tomorrow|~day after tomorrow|~two days from now", "明後日", "asatte" ],
+  [ "now", "今", "ima"],
+
+  [ "-----" ],
+
   [ "person", "人", "hito" ],
   [ "man|~guy", "男", "otoko" ],  
   [ "woman", "女", "on'na|~onna|~ona" ],
@@ -146,7 +149,6 @@
   [ "pear", "梨", "nashi (fruit)|~nashi" ],
   [ "constipation", "便秘", "benpi" ],
   [ "constellation", "星座", "seiza" ],
-  [ "cow", "牛|~うし", "ushi" ],
   [ "shoe / shoes|~shoe|~shoes", "靴", "kutsu" ],
   [ "mushroom", "きのこ", "kinoko" ],
   [ "reservation", "予約", "yoyaku" ],
@@ -154,6 +156,8 @@
   [ "cat", "猫", "neko" ],
   [ "bird", "鳥", "tori" ],
   [ "bear", "クマ", "kuma" ],
+  [ "cow / bull|~cow|~bull", "牛|~うし", "ushi" ],
+  [ "monkey", "猿", "saru" ],
   [ "sun", "太陽", "taiyō|~taiyo" ],
   [ "moon|~month", "月", "tsuki" ],
   [ "mountain", "山|山", "yama|san" ],
@@ -221,10 +225,10 @@
   [ "warm", "暖かい", "attakai" ],
   [ "happy", "嬉しい|幸せ", "ureshī|shiawase|~ureshi|" ],
   [ "sad", "悲しい", "kanashī|~kanashi" ],
-  [ "thirsty|~thirsty", "のどかわいた", "Nodokawaita" ],
-  [ "hungry|~hungry", "お腹すいた", "Onakasuita" ],
-  [ "tired (physically)|~I'm tired|~tired|~I'm exhausted|~exhausted", "疲れた|~疲れた|~私は疲れている", "Tsukareta|~Tsukareta|~Watashi wa tsukarete iru" ],
-  [ "sleepy|~sleepy|~I'm tired|~tired", "私は眠い|~私は眠い|~眠い", "Nemui|~Nemui|~Watashi wa nemui" ],
+  [ "thirsty|~thirsty", "のどかわいた", "nodokawaita" ],
+  [ "hungry|~hungry", "お腹すいた", "onakasuita" ],
+  [ "tired (physically)|~I'm tired|~tired|~I'm exhausted|~exhausted", "疲れた|~疲れた|~私は疲れている", "tsukareta|~Watashi wa tsukarete iru" ],
+  [ "sleepy|~sleepy|~I'm tired|~tired", "私は眠い|~私は眠い|~眠い", "nemui|~Watashi wa nemui" ],
   [ "delicious|~tasty", "美味しい", "oishī|~oishi" ],
   [ "angry|~mad", "怒り", "ikari" ],
   [ "fast", "早い", "hayai" ],
