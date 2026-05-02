@@ -176,7 +176,7 @@
   [ "throat", "喉", "nodo" ],
   [ "stomach / belly|~stomach|~belly", "お腹", "onaka" ],
   [ "head", "頭", "atama" ],
-  [ "eye", "目", "me" ],
+  [ "eye|~eyes", "目", "me" ],
   [ "mouth", "口", "kuchi" ],
   [ "nose", "鼻", "hana" ],
   [ "hair", "髪", "kami (髪)|~kami" ],
