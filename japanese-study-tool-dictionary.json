@@ -27,20 +27,16 @@
   [ "welcome", "いらっしゃいませ|よこそ", "irasshaimase|yokoso" ],
   [ "nice to meet you|~it's nice to meet you", "はじめまして", "hajimemashite" ],
   [ "I'm okay / Are you okay?|~I'm okay|~Are you okay?|~okay", "大丈夫", "daijōbu|~daijobu" ],
-    
-  [ "-----" ],
-
+  [ "I understand", "わかります", "Wakari mas" ],
+  [ "I don't understand", "わかりません", "Wakari masen" ],
+  [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga suki desu|~Watashi wa rāmen ga suki desu|~Watashi wa ramen ga suki desu" ],
+  [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
   [ "What is your name?|~What's your name?", "あなたの名前は何ですか？", "Anata no namae wa nandesu ka?" ],
   [ "My name is Matthew|~My name's Matthew", "私の名前はマシューです", "Watashi no namae wa Mashū desu|~Watashi no namae wa Mashu desu|~Watashi no namae wa Matthew desu|" ],
   [ "Where are you from?", "出身はどこですか？", "Shusshin wa doko desu ka?" ],
   [ "I'm from America", "私はアメリカ出身です", "Watashi wa Amerika shusshin desu" ],
   [ "I'm American", "私はアメリカ人です", "Watashi wa Amerika jin desu" ],
-  
-  [ "-----" ],
-  
-  [ "this one / this thing (i.e., while pointing)|~this one|~this thing", "これです", "koredesu" ],  
-  [ "excellent / very|~excellent|~very|~fantastic|~very good", "すごい", "sugoi" ],
-  [ "cute", "かわいい", "kawai" ],
+  [ "this one / this thing (i.e., while pointing)|~this one|~this thing|~that one|~that thing", "これです", "koredesu" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
   [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
   [ "correct", "合ってる", "atteru" ],
@@ -51,9 +47,6 @@
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying", "めんどくさい", "mendokusai" ],
-  
-  [ "-----" ],
-
   [ "today", "今日", "kyo|~kyō" ],
   [ "yesterday", "昨日", "kino|kinō" ],
   [ "tomorrow", "明日", "ashita" ],
@@ -67,10 +60,10 @@
   
   [ "I / me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
   [ "you (singular)|~you", "あなた", "anata" ],
-  [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "ano hito" ],
-  [ "we|us", "わたしたち / 私たち", "watashi tachi|~watashitachi" ],
-  [ "you (plural)|~you|you all", "あなたたち", "anata tachi|~anatatachi" ],         
-  [ "they / them|~they|~them|", "かれら", "kare ra|~kare-ra|~karera" ],
+  [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
+  [ "we|us", "わたしたち / 私たち", "watashitachi" ],
+  [ "you (plural)|~you|you all", "あなたたち", "anatatachi" ],         
+  [ "they / them|~they|~them|", "かれら", "karera|~kare-ra" ],
   
 
   
@@ -79,8 +72,8 @@
   [ "what", "何", "nani" ],
   [ "where", "どこ", "doko" ],
   [ "when", "いつ", "itsu" ],
-  [ "who", "誰が", "dare ga" ],
-  [ "how", "どうやって", "dō yatte|~do yatte" ],
+  [ "who", "誰が", "darega" ],
+  [ "how", "どうやって", "dōyatte|~doyatte" ],
   [ "why", "なんで|なぜ", "nande|naze" ],
   [ "how much", "いくら|どのくらい", "ikura|donokurai" ],
   [ "how many", "幾つ|どのくらい", "ikutsu|donokurai" ],
@@ -97,7 +90,7 @@
   
   [ "-----" ],
   
-  [ "like / similar to|~like|~similar to", "似ている", "niteiru"],
+  [ "like (similar to)|~like|~similar to", "似ている", "niteiru"],
 
   [ "-----" ],
   
@@ -180,20 +173,23 @@
   [ "word", "単語", "tango" ],
   [ "lie (untruth)|~lie", "嘘", "uso" ],
   [ "liar", "嘘つき", "usotsuki" ],
+  [ "throat", "喉", "nodo" ],
+  [ "stomach / belly|~stomach|~belly", "お腹", "onaka" ],
+  [ "head", "頭", "atama" ],
+  [ "eye", "目", "me" ],
+  [ "mouth", "口", "kuchi" ],
+  [ "nose", "鼻", "hana" ],
+  [ "hair", "髪", "kami (髪)|~kami" ],
+  [ "paper", "紙", "kami (紙)|~kami" ],
   
 
   
   [ "VERBS" ],
 
-  [ "I want!|~I want", "私欲しい", "Watashi hoshī!|~watashi hoshi|~watashi hoshi" ],
-  [ "I understand", "わかります", "Wakari mas" ],
-  [ "I don't understand", "わかりません", "Wakari masen" ],
-  [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga suki desu|~Watashi wa rāmen ga suki desu|~Watashi wa ramen ga suki desu" ],
-  [ "I love you", "愛してます|愛してる", "Aishitemasu|Aishiteru" ],
-    
-  [ "-----" ],
-  
+  [ "like　(admire / prefer)|~like|~admire|~prefer", "好き", "suki" ],
+  [ "want", "欲しい", "hoshī|hoshi" ],
   [ "remember", "覚えてる", "oboeteru" ],
+
 
   
   [ "ADJECTIVES" ],
@@ -209,12 +205,14 @@
   [ "big / large|~big|~large", "大きい", "ōkī|~oki" ],
   [ "a little", "ちょと", "choto" ],
   [ "a few / some|~a few|~few|~some", "いくつか", "ikutsuka" ],
-  [ "a lot of / many|~a lot of|~a lot|~many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi|~takusan|~ippai|" ],
+  [ "a lot of / many|~a lot of|~a lot|~many", "多い|沢山|いっぱい", "ōi|takusan|ippai|~oi" ],
   [ "all", "全部", "zembu" ],
   [ "none", "なし", "nashi (amount)|~nashi" ],
   
   [ "-----" ],
 
+  [ "excellent / very|~excellent|~very|~fantastic|~very good", "すごい", "sugoi" ],
+  [ "cute", "かわいい", "kawai" ],
   [ "good", "良い|いね", "yoi|ine" ],
   [ "bad", "悪い|よくない", "warui|yokunai" ],
   [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
@@ -234,6 +232,12 @@
   [ "skinny / thin|~skinny|~thin", "ほそい", "hosoi" ],
   [ "fat (body shape)|~fat", "でぶ", "debu" ],
   [ "cool (characteristic)|~cool", "格好いい", "kakkōī|~kakkoi" ],
+  [ "asleep", "寝てる", "neteru" ],
+  [ "dry", "乾く", "kawaku" ],
+  [ "dried", "乾いた", "kawaita" ],
+  [ "wet", "濡れた", "nureta" ],
+  [ "empty", "空っぽ|空いた", "karappo (no amount, in a container)|suita (low amount)|~karappo|~suita" ],
+  [ "full|~many", "いっぱい", "ippai" ],
   
   [ "-----" ],
 
