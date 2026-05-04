@@ -208,7 +208,7 @@
 
   [ "eat / will eat|~eat|~will eat", "食べる", "taberu" ],
     [ "ate", "食べた", "tabeta" ],
-    [ "don't/won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
+    [ "don't eat / won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
     [ "didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
     [ "(please) eat / eat and…|~eat|~please eat|~eat and", "食べて", "tabete" ],
 
