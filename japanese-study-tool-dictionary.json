@@ -187,6 +187,8 @@
   [ "hair (head)|~hair", "髪", "kami (髪)|~kami" ],
   [ "hair (body) / fur|~hair|~fur", "け", "ke" ],
   [ "clothes", "服", "fuku" ],
+  [ "rice (uncooked)|~rice", "米", "kome" ],
+  [ "rice (cooked)"|~rice, "御飯", "gohan" ],
   
   
 
