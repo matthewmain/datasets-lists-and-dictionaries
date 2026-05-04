@@ -43,7 +43,7 @@
   [ "so / right|~so|~right|~that's right", "そうだ / そう", "souda / sou|~souda|~sou" ],
   [ "like (filler word)|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
   [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
-  [ "thank you for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
+  [ "thank you for the meal|~thanks for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
