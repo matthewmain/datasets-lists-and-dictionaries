@@ -196,8 +196,8 @@
 
   [ "don't [verb]|~don't|~do not", "な", "[verb] na" ],
   
-  [ "can [verb]|~can", "られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
-  [ "couldn't [verb]|~couldn't|~could not", "られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
+  [ "can [verb]|~can", "-られる|~られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
+  [ "couldn't [verb]|~couldn't|~could not", "-られなかった|~られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
 
 
   
