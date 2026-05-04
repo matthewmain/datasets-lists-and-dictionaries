@@ -26,7 +26,7 @@
   [ "excuse me|~pardon me", "すみません", "sumimasen" ],
   [ "welcome", "いらっしゃいませ|よこそ", "irasshaimase|yokoso" ],
   [ "nice to meet you|~it's nice to meet you", "はじめまして", "hajimemashite" ],
-  [ "I'm okay / Are you okay?|~I'm okay|~Are you okay?|~okay", "大丈夫", "daijōbu|~daijobu" ],
+  [ "I'm okay|Are you okay?|~I'm okay|~Are you okay?|~okay", "大丈夫", "daijōbu|~daijobu" ],
   [ "I understand", "わかります", "Wakari mas" ],
   [ "I don't understand", "わかりません", "Wakari masen" ],
   [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga suki desu|~Watashi wa rāmen ga suki desu|~Watashi wa ramen ga suki desu" ],
@@ -52,12 +52,12 @@
   
   [ "PRONOUNS   <br><a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
   
-  [ "I / me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
+  [ "I/me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
   [ "you (singular)|~you", "あなた", "anata" ],
   [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
-  [ "we|us", "わたしたち / 私たち", "watashitachi" ],
+  [ "we/us", "わたしたち / 私たち", "watashitachi" ],
   [ "you (plural)|~you|you all", "あなたたち", "anatatachi" ],         
-  [ "they / them|~they|~them|", "かれら", "karera|~kare-ra" ],
+  [ "they/them|~they|~them|", "かれら", "karera|~kare-ra" ],
   
 
   
@@ -169,7 +169,7 @@
   [ "child", "子供", "kodomo" ],
   [ "candle", "キャンドル|ろうそく", "kyandoru|rōsoku|~rosoku" ],
   [ "light (noun; i.e., electric light)|electricity|~light|", "電気", "denki" ],
-  [ "teacher / master|~teacher|~master", "先生", "sensei" ],
+  [ "teacher|master", "先生", "sensei" ],
   [ "student", "学生|生徒", "gakusei (noun, third person)|seito (pronoun, second person)|~gakusei|~seito" ],
   [ "money", "お金", "okane" ],
   [ "problem", "問題", "mondai" ],
@@ -180,12 +180,12 @@
   [ "throat", "喉", "nodo" ],
   [ "stomach / belly|~stomach|~belly", "お腹", "onaka" ],
   [ "head", "頭", "atama" ],
-  [ "eye / eyes|~eye|~eyes", "目", "me" ],
+  [ "eye|eyes", "目", "me" ],
   [ "mouth", "口", "kuchi" ],
   [ "nose", "鼻", "hana" ],
   [ "paper", "紙", "kami (紙)|~kami" ],
   [ "hair (head)|~hair", "髪", "kami (髪)|~kami" ],
-  [ "hair (body) / fur|~hair|~fur", "け", "ke" ],
+  [ "hair (body)|fur|~hair", "け", "ke" ],
   [ "clothes", "服", "fuku" ],
   [ "rice (uncooked)|~rice", "米", "kome" ],
   [ "rice (cooked)|~rice", "御飯", "gohan" ],
@@ -208,16 +208,16 @@
   [ "like (admire / prefer)|~like|~admire|~prefer", "好き", "suki" ],
   [ "want", "欲しい", "hoshī|hoshi" ],
   [ "remember", "覚えてる", "oboeteru" ],
-  [ "turn on / light|~turn on|~light", "つける", "tsukeru" ],
-  [ "turn off / extinguish / erase|~turn off|~extinguish|~erase", "消す", "kesu" ],
+  [ "turn on|light", "つける", "tsukeru" ],
+  [ "turn off|extinguish|erase", "消す", "kesu" ],
 
   [ "-----" ],
 
-  [ "eat / will eat|~eat|~will eat", "食べる", "taberu" ],
+  [ "eat|will eat", "食べる", "taberu" ],
     [ "ate", "食べた", "tabeta" ],
-    [ "don't eat / won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
+    [ "don't eat|won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
     [ "didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
-    [ "(please) eat / eat and…|~eat|~please eat|~eat and", "食べて", "tabete" ],
+    [ "(please) eat|eat and…|~eat|~please eat|~eat and", "食べて", "tabete" ],
 
     
   
