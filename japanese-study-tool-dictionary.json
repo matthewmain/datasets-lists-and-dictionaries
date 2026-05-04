@@ -200,6 +200,8 @@
   [ "turn on / light|~turn on|~light", "つける", "tsukeru" ],
   [ "turn off / extinguish / erase|~turn off|~extinguish|~erase", "消す", "kesu" ],
 
+  [ "-----" ],
+
   [ "eat / will eat|~eat|~will eat", "食べる", "taberu" ],
     [ "ate", "食べた", "tabeta" ],
     [ "don't/won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
