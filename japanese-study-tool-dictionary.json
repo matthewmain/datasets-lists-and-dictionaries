@@ -198,10 +198,10 @@
 
   [ "-----" ],
   
-  [ "can [[\"-ru\" verb]|~can", "-られる|~られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
-  [ "can't [[\"-ru\" verb]|~can't|~cannot", "-られない|~られない", "[\"-ru\" verb] -ru, +rarenai |~rarenai" ],
-  [ "could [[\"-ru\" verb]|~could", "-られた|~られた", "[\"-ru\" verb] -ru, +rareta|~rareta" ],
-  [ "couldn't [[\"-ru\" verb]|~couldn't|~could not", "-られなかった|~られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
+  [ "can [\"-ru\" verb]|~can", "-られる|~られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
+  [ "can't [\"-ru\" verb]|~can't|~cannot", "-られない|~られない", "[\"-ru\" verb] -ru, +rarenai |~rarenai" ],
+  [ "could [\"-ru\" verb]|~could", "-られた|~られた", "[\"-ru\" verb] -ru, +rareta|~rareta" ],
+  [ "couldn't [\"-ru\" verb]|~couldn't|~could not", "-られなかった|~られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
   
   [ "-----" ],
   
