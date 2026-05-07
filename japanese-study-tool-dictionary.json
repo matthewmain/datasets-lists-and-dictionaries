@@ -198,9 +198,9 @@
 
   [ "NOTE", "Ichidan (\"-ru\" verbs)" ],
 
-  [ "[subject] [verb]-ed (-ru)|~ed", "た", "[\"-ru\" verb] -ru, +ta|~ta" ],
+  [ "[subject] [verb]-ed (-ru)|~ed", "-た|~た", "[\"-ru\" verb] -ru, +ta|~ta" ],
   [ "[subject] don't [verb] (-ru)|[subject] won't [verb] (-ru)|~don't|~won't|~do not|~will not", "-ない|~ない", "[\"-ru\" verb] -ru, +nai|~nai" ],
-  [ "[subject] didn't [verb] (-ru)|~didn't|~did not", "なかった", "[\"-ru\" verb] -ru, +nakatta|~nakatta" ],
+  [ "[subject] didn't [verb] (-ru)|~didn't|~did not", "-なかった|~なかった", "[\"-ru\" verb] -ru, +nakatta|~nakatta" ],
   [ "(please) do (-ru)|do and… (-ru)|~do|~please do|~do please|~do and", "-て|~て", "[\"-ru\" verb] -ru, +te|~te" ],
   [ "let's [verb] (-ru)|~let's", "-よう|~よう", "[\"-ru\" verb] -ru, +yō|~-yō|~yo" ],
   
