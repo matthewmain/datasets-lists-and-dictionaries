@@ -212,11 +212,17 @@
   [ "-----" ],
 
   [ "{[subject]} eat(s)|{[subject]} will eat|~eat|~eats|~will eat", "食べる", "taberu" ],
-    [ "{[subject]} ate|~ate", "食べた", "tabeta" ],
-    [ "{[subject]} don't eat|{[subject]} won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
-    [ "{[subject]} didn't eat|~didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
-    [ "{(please)} eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
-    [ "let's eat {(casual)}|~let's eat", "食べよう", "tabeyō|~tabeyo" ],
+  
+  [ "{[subject]} ate|~ate", "食べた", "tabeta" ],
+  [ "{[subject]} don't eat|{[subject]} won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
+  [ "{[subject]} didn't eat|~didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
+  [ "{(please)} eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
+  [ "let's eat {(casual)}|~let's eat", "食べよう", "tabeyō|~tabeyo" ],
+
+  [ "{[subject]} can eat|~can eat", "食べられる", "taberareru" ],
+  [ "{[subject]} can't eat|~can't eat|~cannot eat", "食べられない", "taberarenai" ],
+  [ "{[subject]} could eat|~could eat", "食べられた", "taberareta" ],
+  [ "{[subject]} couldn't eat|~couldn't eat|~could not eat", "食べられなかった", "taberarenakatta" ],
   
   [ "-----" ],
 
