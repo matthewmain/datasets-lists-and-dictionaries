@@ -42,7 +42,7 @@
   [ "correct", "合ってる", "atteru" ],
   [ "so / right|~so|~right|~that's right", "そうだ / そう", "souda / sou|~souda|~sou" ],
   [ "like {(filler word)}|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
-  [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
+  [ "bon apetit|let's eat {(formal)}|I'll enjoy having this|~let's eat", "いただきます", "itadakimasu" ],
   [ "thank you for the meal|~thanks for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
@@ -198,7 +198,7 @@
 
   [ "NOTE", "Ichidan (\"-ru\" verbs)" ],
 
-  [ "{[subject]} [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
+  [ "{[subject] [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
   [ "{[subject]} don't {[\"-ru\" verb]}|{[subject]} won't {[\"-ru\" verb]}|~don't|~won't|~do not|~will not", "-ない|~ない", "{[\"-ru\" verb] -ru, +}nai|~nai" ],
   [ "{[subject]} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
   [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
@@ -216,7 +216,7 @@
     [ "{[subject]} don't eat|{[subject]} won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
     [ "{[subject]} didn't eat|~didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
     [ "{(please)} eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
-    [ "let's eat", "食べよう", "tabeyō|~tabeyo" ],
+    [ "let's eat {(casual)}|~let's eat", "食べよう", "tabeyō|~tabeyo" ],
   
   [ "-----" ],
 
