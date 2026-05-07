@@ -200,10 +200,10 @@
 
   [ "-----" ],
   
-  [ "can [\"-ru\" verb]|~can", "-られる|~られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
-  [ "can't [\"-ru\" verb]|~can't|~cannot", "-られない|~られない", "[\"-ru\" verb] -ru, +rarenai |~rarenai" ],
-  [ "could [\"-ru\" verb]|~could", "-られた|~られた", "[\"-ru\" verb] -ru, +rareta|~rareta" ],
-  [ "couldn't [\"-ru\" verb]|~couldn't|~could not", "-られなかった|~られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
+  [ "[noun] can [\"-ru\" verb]|~can", "-られる|~られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
+  [ "[noun] can't [\"-ru\" verb]|~can't|~cannot", "-られない|~られない", "[\"-ru\" verb] -ru, +rarenai |~rarenai" ],
+  [ "[noun] could [\"-ru\" verb]|~could", "-られた|~られた", "[\"-ru\" verb] -ru, +rareta|~rareta" ],
+  [ "[noun] couldn't [\"-ru\" verb]|~couldn't|~could not", "-られなかった|~られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
   
   [ "-----" ],
   
@@ -215,11 +215,11 @@
 
   [ "-----" ],
 
-  [ "eat|will eat", "食べる", "taberu" ],
-    [ "ate", "食べた", "tabeta" ],
-    [ "don't eat|won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
-    [ "didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
-    [ "(please) eat|eat and…|~eat|~please eat|~eat and", "食べて", "tabete" ],
+  [ "[noun] eat(s)|[noun] will eat|~eat|~eats|~will eat", "食べる", "taberu" ],
+    [ "[noun] ate|~ate", "食べた", "tabeta" ],
+    [ "[noun] don't eat|[noun] won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
+    [ "[noun] didn't eat|~didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
+    [ "(please) eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
 
     
   
