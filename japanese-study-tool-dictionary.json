@@ -20,8 +20,8 @@
   
   [ "please", "ください", "kudasai" ],
   [ "thank you|~thanks", "ありがとう", "arigatō|~arigato" ],
-  [ "you're welcome (\"it's nothing\")|~you're welcome|~it's nothing|~no", "いいえ", "īe|~ie" ],
-  [ "you're welcome (formal)|~you're welcome|", "どういたしまして", "dōitashimashite|~doitashimashite" ],
+  [ "you're welcome {(\"it's nothing\")}|~you're welcome|~it's nothing|~no", "いいえ", "īe|~ie" ],
+  [ "you're welcome {(formal)}|~you're welcome|", "どういたしまして", "dōitashimashite|~doitashimashite" ],
   [ "I'm sorry|~sorry", "ごめんなさい", "gomen'nasai|~gomennasai" ],
   [ "excuse me|~pardon me", "すみません", "sumimasen" ],
   [ "welcome", "いらっしゃいませ|よこそ", "irasshaimase|yokoso" ],
@@ -36,7 +36,7 @@
   [ "Where are you from?", "出身はどこですか？", "Shusshin wa doko desu ka?" ],
   [ "I'm from America", "私はアメリカ出身です", "Watashi wa Amerika shusshin desu" ],
   [ "I'm American", "私はアメリカ人です", "Watashi wa Amerika jin desu" ],
-  [ "this one / this thing (i.e., while pointing)|~this one|~this thing|~that one|~that thing", "これです", "koredesu" ],
+  [ "this one / this thing {(i.e., while pointing)}|~this one|~this thing|~that one|~that thing", "これです", "koredesu" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
   [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
   [ "correct", "合ってる", "atteru" ],
@@ -54,7 +54,7 @@
   
   [ "I/me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
   [ "you {(singular)}|~you", "あなた", "anata" ],
-  [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
+  [ "he/she, him/her {(\"that person\")}|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
   [ "we/us", "わたしたち / 私たち", "watashitachi" ],
   [ "you {(plural)}|~you|you all", "あなたたち", "anatatachi" ],         
   [ "they/them|~they|~them|", "かれら", "karera|~kare-ra" ],
@@ -102,7 +102,7 @@
   
   [ "-----" ],
 
-  [ "day (daytime)|~day|~daytime", "昼", "hiru" ],
+  [ "day {(daytime)}|~day|~daytime", "昼", "hiru" ],
   [ "night", "夜", "yoru" ],
   [ "day {(date)}|~day|~date", "日", "hi" ],
   [ "month|~moon", "月|月", "tsuki|gatsu" ],
@@ -188,8 +188,8 @@
   [ "hair {(head)}|~hair", "髪", "kami (髪)|~kami" ],
   [ "hair {(body)}|fur|~hair", "け", "ke" ],
   [ "clothes", "服", "fuku" ],
-  [ "rice (uncooked)|~rice", "米", "kome" ],
-  [ "rice (cooked)|~rice", "御飯", "gohan" ],
+  [ "rice {(uncooked)}|~rice", "米", "kome" ],
+  [ "rice {(cooked)}|~rice", "御飯", "gohan" ],
   [ "bed", "ベッド", "beddo" ],
 
   
@@ -198,9 +198,9 @@
 
   [ "NOTE", "Ichidan (\"-ru\" verbs)" ],
 
-  [ "{{[subject]} [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
-  [ "{{[subject]}} don't {[\"-ru\" verb]}|{{[subject]}} won't {[\"-ru\" verb]}|~don't|~won't|~do not|~will not", "-ない|~ない", "{[\"-ru\" verb] -ru, +}nai|~nai" ],
-  [ "{{[subject]}} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
+  [ "{[subject]} [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
+  [ "{[subject]} don't {[\"-ru\" verb]}|{[subject]} won't {[\"-ru\" verb]}|~don't|~won't|~do not|~will not", "-ない|~ない", "{[\"-ru\" verb] -ru, +}nai|~nai" ],
+  [ "{[subject]} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
   [ "{(please)} do {(\"-ru\" verb)}|do and… {(\"-ru\" verb)}|~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
   [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
   
@@ -255,8 +255,8 @@
   [ "cute", "かわいい", "kawai" ],
   [ "good", "良い|いね", "yoi|ine" ],
   [ "bad", "悪い|よくない", "warui|yokunai" ],
-  [ "cold (physical feeling or weather)|~cold", "寒い", "samui" ],
-  [ "cold (object)|~cold", "冷たい", "tsumetai" ],
+  [ "cold {(physical feeling or weather)}|~cold", "寒い", "samui" ],
+  [ "cold {(object)}|~cold", "冷たい", "tsumetai" ],
   [ "hot", "熱い", "atsui" ],
   [ "warm", "暖かい", "attakai" ],
   [ "happy", "嬉しい|幸せ", "ureshī|shiawase|~ureshi|" ],
