@@ -13,8 +13,8 @@
 
   [ "yes|~yeah", "はい", "hai" ],
   [ "no|it's nothing|you're welcome", "いいえ|~じゃない", "īe|~ie|~janai" ],
-  [ "not (re. adjective or noun)|", "じゃない", "janai|~kunai" ],
-  [ "not (re. adjective)", "くない", "kunai" ],
+  [ "not {(re. adjective or noun)}|", "じゃない", "janai|~kunai" ],
+  [ "not {(re. adjective)}", "くない", "kunai" ],
   
   [ "-----" ],
   
@@ -41,22 +41,22 @@
   [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
   [ "correct", "合ってる", "atteru" ],
   [ "so / right|~so|~right|~that's right", "そうだ / そう", "souda / sou|~souda|~sou" ],
-  [ "like (filler word)|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
+  [ "like {(filler word)}|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
   [ "bon apetit|let's eat|I'll enjoy having this", "いただきます", "itadakimasu" ],
   [ "thank you for the meal|~thanks for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
-  [ "it's too much of a hassle|~too much of a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
+  [ "it's too much of a hassle|~too much of a hassle|it's a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
 
 
   
   [ "PRONOUNS   <br><a href='https://en.wikipedia.org/wiki/Japanese_pronouns' target='_blank'>(further reference)</a>" ],
   
   [ "I/me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
-  [ "you (singular)|~you", "あなた", "anata" ],
+  [ "you {(singular)}|~you", "あなた", "anata" ],
   [ "he/she, him/her (\"that person\")|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
   [ "we/us", "わたしたち / 私たち", "watashitachi" ],
-  [ "you (plural)|~you|you all", "あなたたち", "anatatachi" ],         
+  [ "you {(plural)}|~you|you all", "あなたたち", "anatatachi" ],         
   [ "they/them|~they|~them|", "かれら", "karera|~kare-ra" ],
   
 
@@ -84,7 +84,7 @@
   
   [ "-----" ],
   
-  [ "like (similar to)|~like|~similar to", "似ている", "niteiru"],
+  [ "like {(similar to)}|~like|~similar to", "似ている", "niteiru"],
 
   [ "-----" ],
   
@@ -104,7 +104,7 @@
 
   [ "day (daytime)|~day|~daytime", "昼", "hiru" ],
   [ "night", "夜", "yoru" ],
-  [ "day (date)|~day|~date", "日", "hi" ],
+  [ "day {(date)}|~day|~date", "日", "hi" ],
   [ "month|~moon", "月|月", "tsuki|gatsu" ],
   [ "year", "年", "toshi" ],
   [ "spring", "春", "haru" ],
@@ -169,14 +169,14 @@
   [ "color", "色", "iro" ],
   [ "child", "子供", "kodomo" ],
   [ "candle", "キャンドル|ろうそく", "kyandoru|rōsoku|~rosoku" ],
-  [ "light (noun; i.e., electric light)|electricity|~light|", "電気", "denki" ],
+  [ "light {(noun; i.e., electric light)}|electricity|~light|", "電気", "denki" ],
   [ "teacher|master", "先生", "sensei" ],
   [ "student", "学生|生徒", "gakusei (noun, third person)|seito (pronoun, second person)|~gakusei|~seito" ],
   [ "money", "お金", "okane" ],
   [ "problem", "問題", "mondai" ],
   [ "house", "家", "ie" ],
   [ "word", "単語", "tango" ],
-  [ "lie (untruth)|~lie", "嘘", "uso" ],
+  [ "lie {(untruth)}|~lie", "嘘", "uso" ],
   [ "liar", "嘘つき", "usotsuki" ],
   [ "throat", "喉", "nodo" ],
   [ "stomach / belly|~stomach|~belly", "お腹", "onaka" ],
@@ -185,8 +185,8 @@
   [ "mouth", "口", "kuchi" ],
   [ "nose", "鼻", "hana" ],
   [ "paper", "紙", "kami (紙)|~kami" ],
-  [ "hair (head)|~hair", "髪", "kami (髪)|~kami" ],
-  [ "hair (body)|fur|~hair", "け", "ke" ],
+  [ "hair {(head)}|~hair", "髪", "kami (髪)|~kami" ],
+  [ "hair {(body)}|fur|~hair", "け", "ke" ],
   [ "clothes", "服", "fuku" ],
   [ "rice (uncooked)|~rice", "米", "kome" ],
   [ "rice (cooked)|~rice", "御飯", "gohan" ],
@@ -198,33 +198,33 @@
 
   [ "NOTE", "Ichidan (\"-ru\" verbs)" ],
 
-  [ "{[subject] [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
-  [ "[subject] don't [\"-ru\" verb]|[subject] won't [verb] (-ru)|~don't|~won't|~do not|~will not", "-ない|~ない", "[\"-ru\" verb] -ru, +nai|~nai" ],
-  [ "[subject] didn't [\"-ru\" verb]|~didn't|~did not", "-なかった|~なかった", "[\"-ru\" verb] -ru, +nakatta|~nakatta" ],
-  [ "(please) do (\"-ru\" verb)|do and… (\"-ru\" verb)|~do|~please do|~do please|~do and", "-て|~て", "[\"-ru\" verb] -ru, +te|~te" ],
-  [ "let's [\"-ru\" verb]|~let's", "-よう|~よう", "[\"-ru\" verb] -ru, +yō|~-yō|~yo" ],
+  [ "{{[subject]} [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
+  [ "{{[subject]}} don't {[\"-ru\" verb]}|{{[subject]}} won't {[\"-ru\" verb]}|~don't|~won't|~do not|~will not", "-ない|~ない", "{[\"-ru\" verb] -ru, +}nai|~nai" ],
+  [ "{{[subject]}} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
+  [ "{(please)} do {(\"-ru\" verb)}|do and… {(\"-ru\" verb)}|~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
+  [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
   
-  [ "[subject] can [\"-ru\" verb]|~can", "-られる|~られる", "[\"-ru\" verb] -ru, +rareru|~rareru" ],
-  [ "[subject] can't [\"-ru\" verb]|~can't|~cannot", "-られない|~られない", "[\"-ru\" verb] -ru, +rarenai |~rarenai" ],
-  [ "[subject] could [\"-ru\" verb]|~could", "-られた|~られた", "[\"-ru\" verb] -ru, +rareta|~rareta" ],
-  [ "[subject] couldn't [\"-ru\" verb]|~couldn't|~could not", "-られなかった|~られなかった", "[\"-ru\" verb] -ru, +rarenakatta|~rarenakatta" ],
+  [ "{[subject]} can {[\"-ru\" verb]}|~can", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
+  [ "{[subject]} can't {[\"-ru\" verb]}|~can't|~cannot", "-られない|~られない", "{[\"-ru\" verb] -ru, +}rarenai |~rarenai" ],
+  [ "{[subject]} could {[\"-ru\" verb]}|~could", "-られた|~られた", "{[\"-ru\" verb] -ru, +}rareta|~rareta" ],
+  [ "{[subject]} couldn't {[\"-ru\" verb]}|~couldn't|~could not", "-られなかった|~られなかった", "{[\"-ru\" verb] -ru, +}rarenakatta|~rarenakatta" ],
 
   [ "-----" ],
 
-  [ "[subject] eat(s)|[subject] will eat|~eat|~eats|~will eat", "食べる", "taberu" ],
-    [ "[subject] ate|~ate", "食べた", "tabeta" ],
-    [ "[subject] don't eat|[subject] won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
-    [ "[subject] didn't eat|~didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
-    [ "(please) eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
+  [ "{[subject]} eat(s)|{[subject]} will eat|~eat|~eats|~will eat", "食べる", "taberu" ],
+    [ "{[subject]} ate|~ate", "食べた", "tabeta" ],
+    [ "{[subject]} don't eat|{[subject]} won't eat|~don't eat|~won't eat|~do not eat|~will not eat", "食べない", "tabenai" ],
+    [ "{[subject]} didn't eat|~didn't eat|~did not eat", "食べなかった", "tabenakatta" ],
+    [ "{(please)} eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
     [ "let's eat", "食べよう", "tabeyō|~tabeyo" ],
   
   [ "-----" ],
 
-  [ "don't [verb](!)|~don't|~do not", "な", "[verb] na|~na" ],
+  [ "don't {[verb](!)}|~don't|~do not", "な", "{[verb]} na|~na" ],
   
   [ "-----" ],
   
-  [ "like (admire / prefer)|~like|~admire|~prefer", "好き", "suki" ],
+  [ "like {(admire / prefer)}|~like|~admire|~prefer", "好き", "suki" ],
   [ "want", "欲しい", "hoshī|hoshi" ],
   [ "remember", "覚えてる", "oboeteru" ],
   [ "turn on|light", "つける", "tsukeru" ],
@@ -263,15 +263,15 @@
   [ "sad", "悲しい", "kanashī|~kanashi" ],
   [ "thirsty|~thirsty", "のどかわいた", "nodokawaita" ],
   [ "hungry|~hungry", "お腹すいた", "onakasuita" ],
-  [ "tired (physically)|~I'm tired|~tired|~I'm exhausted|~exhausted", "疲れた|~疲れた|~私は疲れている", "tsukareta|~Watashi wa tsukarete iru" ],
+  [ "tired {(physically)}|~I'm tired|~tired|~I'm exhausted|~exhausted", "疲れた|~疲れた|~私は疲れている", "tsukareta|~Watashi wa tsukarete iru" ],
   [ "sleepy|~sleepy|~I'm tired|~tired", "私は眠い|~私は眠い|~眠い", "nemui|~Watashi wa nemui" ],
   [ "delicious|~tasty", "美味しい", "oishī|~oishi" ],
   [ "angry|~mad", "怒り", "ikari" ],
   [ "fast", "早い", "hayai" ],
   [ "slow", "遅い", "osoi" ],
   [ "skinny / thin|~skinny|~thin", "ほそい", "hosoi" ],
-  [ "fat (body shape)|~fat", "でぶ", "debu" ],
-  [ "cool (characteristic)|~cool", "格好いい", "kakkōī|~kakkoi" ],
+  [ "fat"|~fat", "でぶ", "debu" ],
+  [ "cool {(characteristic)}|~cool", "格好いい", "kakkōī|~kakkoi" ],
   [ "asleep", "寝てる", "neteru" ],
   [ "dry", "乾く", "kawaku" ],
   [ "dried", "乾いた", "kawaita" ],
