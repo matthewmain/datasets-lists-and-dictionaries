@@ -201,7 +201,7 @@
   [ "{[subject]} [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
   [ "{[subject]} don't {[\"-ru\" verb]}|{[subject]} won't {[\"-ru\" verb]}|~don't|~won't|~do not|~will not", "-ない|~ない", "{[\"-ru\" verb] -ru, +}nai|~nai" ],
   [ "{[subject]} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
-  [ "{(please)} do {(\"-ru\" verb)}|do and… {(\"-ru\" verb)}|~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
+  [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
   [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
   
   [ "{[subject]} can {[\"-ru\" verb]}|~can", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
