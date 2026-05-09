@@ -95,7 +95,7 @@
   [ "-----" ],
   
   [ "left", "左", "hidari"],
-  [ "right (direction)", "右", "migi"],
+  [ "right {(direction)}", "右", "migi"],
 
 
   
