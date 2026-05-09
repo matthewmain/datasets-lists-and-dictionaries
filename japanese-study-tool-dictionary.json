@@ -38,9 +38,9 @@
   [ "I'm American", "私はアメリカ人です", "Watashi wa Amerika jin desu" ],
   [ "this one / this thing {(i.e., while pointing)}|~this one|~this thing|~that one|~that thing", "これです", "koredesu" ],
   [ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
-  [ "right?|correct?|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
+  [ "right? / right {(agreement)}|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
+  [ "so / right|~so|~right|~that's right|~and so", "そうだ / そう", "souda / sou|~souda|~sou" ],
   [ "correct", "合ってる", "atteru" ],
-  [ "so / right|~so|~right|~that's right", "そうだ / そう", "souda / sou|~souda|~sou" ],
   [ "like {(filler word)}|~like|um / hmm|~um|~hmm", "なんか", "nanka" ],
   [ "bon apetit|let's eat {(formal)}|I'll enjoy having this|~let's eat", "いただきます", "itadakimasu" ],
   [ "thank you for the meal|~thanks for the meal", "ごちそうさま|ご馳走様でした", "gochisōsama|gochisōsamadeshita|~gochisosama|~gochisosamadeshita" ],
@@ -95,7 +95,7 @@
   [ "-----" ],
   
   [ "left", "左", "hidari"],
-  [ "right", "右", "migi"],
+  [ "right (direction)", "右", "migi"],
 
 
   
