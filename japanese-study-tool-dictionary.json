@@ -1,7 +1,7 @@
 [  
 
   
-  [ "COMMON PHRASES" ],
+  [ "COMMON PHRASES" ],F
   
   [ "hello|~hi|good day / good afternoon", "こんにちは", "kon'nichiwa|~konnichiwa|~konichiwa" ],
   [ "goodbye / see you|~goodbye|~bye|~see you", "じゃあね|またね", "jāne|matane|~jane" ],
@@ -305,7 +305,7 @@
   [ "empty", "空っぽ|空いた", "karappo (no amount, in a container)|suita (low amount)|~karappo|~suita" ],
   [ "full|~many", "いっぱい", "ippai" ],
   [ "long", "長い", "nagai" ],
-  [ "short {(length)}", "短い", "mijikai" ],
+  [ "short {(length)}|~short", "短い", "mijikai" ],
 
   
   [ "-----" ],
