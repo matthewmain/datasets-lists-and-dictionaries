@@ -47,6 +47,12 @@
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
+  
+
+  
+  [ "FOUNDATIONAL GRAMMAR" ],
+  
+  [ "{[topic marker]}|~topic marker|~topic", "は", "wa" ],
 
 
   
@@ -123,7 +129,7 @@
 
   [ "-----" ],
 
-  [ "person", "人", "hito" ],
+  [ "person|human|~person|~human", "人", "hito" ],
   [ "man|~guy", "男", "otoko" ],  
   [ "woman", "女", "on'na|~onna|~ona" ],
   [ "boy", "男の子", "otokonoko" ],
@@ -132,12 +138,16 @@
   
   [ "-----" ],
 
+  [ "family", "家族", "kazoku" ],
+  
   [ "mom / mother|~mom|~mother", "母|母親|お母さん", "haha (casual descriptive)|hahaoya (formal descriptive)|okaa-san (addressive)|~haha|~hahaoya|~okaasan" ],
   [ "dad / father|~dad|~father", "父|父親|お父さん", "chichi (casual descriptive)|chichioya (formal descriptive)|oto-san (addressive)|~chichi|~chichioya|~otoasan" ],
   [ "sister", "妹", "imōto|~imoto" ],
   [ "brother", "兄弟", "kyōdai|~kyodai" ],
   [ "daughter", "娘", "musume" ],
   [ "son", "息子", "musuko" ],
+  
+  [ "friend", "友達", "tomodachi" ],
   
   [ "-----" ],
   
@@ -176,8 +186,6 @@
   [ "problem", "問題", "mondai" ],
   [ "house", "家", "ie" ],
   [ "word", "単語", "tango" ],
-  [ "lie {(untruth)}|~lie", "嘘", "uso" ],
-  [ "liar", "嘘つき", "usotsuki" ],
   [ "throat", "喉", "nodo" ],
   [ "stomach / belly|~stomach|~belly", "お腹", "onaka" ],
   [ "head", "頭", "atama" ],
@@ -191,6 +199,16 @@
   [ "rice {(uncooked)}|~rice", "米", "kome" ],
   [ "rice {(cooked)}|~rice", "御飯", "gohan" ],
   [ "bed", "ベッド", "beddo" ],
+  [ "room", "部屋", "heya" ],
+  [ "phone", "電話", "denwa" ],
+  [ "green tea|~tea", "お茶", "ocha" ],
+  [ "black tea", "紅茶", "kocha" ],
+  
+  [ "-----" ],
+  
+  [ "lie {(untruth)}|~lie", "嘘", "uso" ],
+  [ "liar", "嘘つき", "usotsuki" ],
+  [ "idea|thought|~idea|~thought", "考え", "kangae" ],
 
   
   
@@ -284,6 +302,9 @@
   [ "wet", "濡れた", "nureta" ],
   [ "empty", "空っぽ|空いた", "karappo (no amount, in a container)|suita (low amount)|~karappo|~suita" ],
   [ "full|~many", "いっぱい", "ippai" ],
+  [ "long", "長い", "nagai" ],
+  [ "short", "短い", "mijikai" ],
+
   
   [ "-----" ],
 
