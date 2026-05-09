@@ -305,7 +305,7 @@
   [ "empty", "空っぽ|空いた", "karappo (no amount, in a container)|suita (low amount)|~karappo|~suita" ],
   [ "full|~many", "いっぱい", "ippai" ],
   [ "long", "長い", "nagai" ],
-  [ "short", "短い", "mijikai" ],
+  [ "short {(length)}", "短い", "mijikai" ],
 
   
   [ "-----" ],
