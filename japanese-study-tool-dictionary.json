@@ -203,7 +203,7 @@
   [ "phone", "電話", "denwa" ],
   [ "green tea|~tea", "お茶", "ocha" ],
   [ "black tea", "紅茶", "kocha" ],
-  [ "heart {[organ]}|"heart {[core feeling]}|~heart", "心臓|心", "shinzo|kokoro" ],
+  [ "heart {[organ]}|heart {[core feeling]}|~heart", "心臓|心", "shinzo|kokoro" ],
   
   [ "-----" ],
   
