@@ -224,19 +224,19 @@
   [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
   [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
   
-  [ "{[subject]} can {[\"-ru\" verb]}|~can", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
-  [ "{[subject]} can't {[\"-ru\" verb]}|~can't|~cannot", "-られない|~られない", "{[\"-ru\" verb] -ru, +}rarenai |~rarenai" ],
+  [ "{[subject]} can {[\"-ru\" verb]}|{[subject]} will be able to {[\"-ru\" verb]}|~can|~will be able to", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
+  [ "{[subject]} can't {[\"-ru\" verb]}|{[subject]} won't be able to {[\"-ru\" verb]}|~can't|~cannot|~won't be able to|~will not be able to", "-られない|~られない", "{[\"-ru\" verb] -ru, +}rarenai |~rarenai" ],
   [ "{[subject]} could {[\"-ru\" verb]}|~could", "-られた|~られた", "{[\"-ru\" verb] -ru, +}rareta|~rareta" ],
   [ "{[subject]} couldn't {[\"-ru\" verb]}|~couldn't|~could not", "-られなかった|~られなかった", "{[\"-ru\" verb] -ru, +}rarenakatta|~rarenakatta" ],
 
-  [ "{[subject]} want(s) to {[\"-ru\" verb]}|~want to|~wants to", "-たい|~たい", "{[\"-ru\" verb] -ru, +}tai|~tai" ],
+  [ "{[subject]} want(s) to {[\"-ru\" verb]}|{[subject]} will want to {[\"-ru\" verb]}|~want to|~wants to|~will want to", "-たい|~たい", "{[\"-ru\" verb] -ru, +}tai|~tai" ],
   [ "{[subject]} wanted to {[\"-ru\" verb]}|~wanted to", "-たかった|~たかった", "{[\"-ru\" verb] -ru, +}takatta|~takatta" ],
-  [ "{[subject]} don't want to {[\"-ru\" verb]}|{[subject]} doesn't want to {[\"-ru\" verb]}|~don't want to|~doesn't want to|~do not want to", "-たくない|~たくない", "{[\"-ru\" verb] -ru, +}takunai|~takunai" ],
+  [ "{[subject]} don't want to {[\"-ru\" verb]}|{[subject]} doesn't want to {[\"-ru\" verb]}|{[subject]} won't want to {[\"-ru\" verb]}|~don't want to|~doesn't want to|~do not want to|~won't want to|~will not want to", "-たくない|~たくない", "{[\"-ru\" verb] -ru, +}takunai|~takunai" ],
   [ "{[subject]} didn't want to {[\"-ru\" verb]}|~didn't want to|~did not want to", "-たくなかった|~たくなかった", "{[\"-ru\" verb] -ru, +}takunakatta|~takunakatta" ],
   
-  [ "{[subject]} need(s) to {[\"-ru\" verb]}|{[subject]} must {[\"-ru\" verb]}|~need to|~needs to|~must", "-ないといけない|~-ないと", "{[\"-ru\" verb] -ru, +}nai to ikenai|~nai to" ],
+  [ "{[subject]} need(s) to {[\"-ru\" verb]}|{[subject]} will need to {[\"-ru\" verb]}|{[subject]} must {[\"-ru\" verb]}|~need to|~needs to|~will need to|~must", "-ないといけない|~-ないと", "{[\"-ru\" verb] -ru, +}nai to ikenai|~nai to" ],
   [ "{[subject]} needed to {[\"-ru\" verb]}|~needed to", "-ないといけなかった|~ないといけなかった", "{[\"-ru\" verb] -ru, +}nai to ikenakatta|~nai to ikenakatta" ],
-  [ "{[subject]} don't need to {[\"-ru\" verb]}|{[subject]} doesn't need to {[\"-ru\" verb]}|~don't need to|~doesn't need to|~do not need to", "-なくてもいい|~なくてもいい", "{[\"-ru\" verb] -ru, +}nakute mo ii|~nakute mo ii" ],
+  [ "{[subject]} don't need to {[\"-ru\" verb]}|{[subject]} doesn't need to {[\"-ru\" verb]}|{[subject]} won't need to {[\"-ru\" verb]}|~don't need to|~doesn't need to|~do not need to|~won't need to|~will not need to", "-なくてもいい|~なくてもいい", "{[\"-ru\" verb] -ru, +}nakute mo ii|~nakute mo ii" ],
   [ "{[subject]} didn't need to {[\"-ru\" verb]}|~didn't need to|~did not need to", "-なくてもよかった|~なくてもよかった", "{[\"-ru\" verb] -ru, +}nakute mo yokatta|~nakute mo yokatta" ],
 
   [ "-----" ],
@@ -249,19 +249,19 @@
   [ "{(please)} eat|eat and…|~eat|~please eat|~eat please|~eat and", "食べて", "tabete" ],
   [ "let's eat {(casual)}|~let's eat", "食べよう", "tabeyō|~tabeyo" ],
 
-  [ "{[subject]} can eat|~can eat", "食べられる", "taberareru" ],
-  [ "{[subject]} can't eat|~can't eat|~cannot eat", "食べられない", "taberarenai" ],
+  [ "{[subject]} can eat|{[subject]} will be able to eat|~can eat|~will be able to eat", "食べられる", "taberareru" ],
+  [ "{[subject]} can't eat|{[subject]} won't be able to eat|~can't eat|~cannot eat|~won't be able to eat|~will not be able to eat", "食べられない", "taberarenai" ],
   [ "{[subject]} could eat|~could eat", "食べられた", "taberareta" ],
   [ "{[subject]} couldn't eat|~couldn't eat|~could not eat", "食べられなかった", "taberarenakatta" ],
 
-  [ "{[subject]} want(s) to eat|~want to eat|~wants to eat", "食べたい", "tabetai" ],
+  [ "{[subject]} want(s) to eat|{[subject]} will want to eat|~want to eat|~wants to eat|~will want to eat", "食べたい", "tabetai" ],
   [ "{[subject]} wanted to eat|~wanted to eat", "食べたかった", "tabetakatta" ],
-  [ "{[subject]} don't want to eat|{[subject]} doesn't want to eat|~don't want to eat|~doesn't want to eat|~do not want to eat", "食べたくない", "tabetakunai" ],
+  [ "{[subject]} don't want to eat|{[subject]} doesn't want to eat|{[subject]} won't want to eat|~don't want to eat|~doesn't want to eat|~do not want to eat|~won't want to eat|~will not want to eat", "食べたくない", "tabetakunai" ],
   [ "{[subject]} didn't want to eat|~didn't want to eat|~did not want to eat", "食べたくなかった", "tabetakunakatta" ],
   
-  [ "{[subject]} need(s) to eat|{[subject]} must eat|~need to eat|~needs to eat|~must eat", "食べないといけない|~食べないと", "tabenai to ikenai|~tabenai to" ],
+  [ "{[subject]} need(s) to eat|{[subject]} will need to eat|{[subject]} must eat|~need to eat|~needs to eat|~will need to eat|~must eat", "食べないといけない|~食べないと", "tabenai to ikenai|~tabenai to" ],
   [ "{[subject]} needed to eat|~needed to eat", "食べないといけなかった", "tabenai to ikenakatta" ],
-  [ "{[subject]} don't need to eat|{[subject]} doesn't need to eat|~don't need to eat|~doesn't need to eat|~do not need to eat", "食べなくてもいい", "tabenakute mo ii" ],
+  [ "{[subject]} don't need to eat|{[subject]} doesn't need to eat|{[subject]} won't need to eat|~don't need to eat|~doesn't need to eat|~do not need to eat|~won't need to eat|~will not need to eat", "食べなくてもいい", "tabenakute mo ii" ],
   [ "{[subject]} didn't need to eat|~didn't need to eat|~did not need to eat", "食べなくてもよかった", "tabenakute mo yokatta" ],
   
   [ "-----" ],
