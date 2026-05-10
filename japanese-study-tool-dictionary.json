@@ -226,20 +226,20 @@
   [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
   [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
   
-  [ "{[subject]} can {[\"-ru\" verb]}|{[subject]} will be able to {[\"-ru\" verb]}|~can|~will be able to", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
-  [ "{[subject]} can't {[\"-ru\" verb]}|{[subject]} won't be able to {[\"-ru\" verb]}|~can't|~cannot|~won't be able to|~will not be able to", "-られない|~られない", "{[\"-ru\" verb] -ru, +}rarenai |~rarenai" ],
+  [ "{[subject]} can {[\"-ru\" verb]}|{[subject]} will be able to {[\"-ru\" verb]}|~can|~will be able to|~will be able", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
+  [ "{[subject]} can't {[\"-ru\" verb]}|{[subject]} won't be able to {[\"-ru\" verb]}|~can't|~cannot|~won't be able to|~will not be able to|~won't be able|~will not be able", "-られない|~られない", "{[\"-ru\" verb] -ru, +}rarenai |~rarenai" ],
   [ "{[subject]} could {[\"-ru\" verb]}|~could", "-られた|~られた", "{[\"-ru\" verb] -ru, +}rareta|~rareta" ],
   [ "{[subject]} couldn't {[\"-ru\" verb]}|~couldn't|~could not", "-られなかった|~られなかった", "{[\"-ru\" verb] -ru, +}rarenakatta|~rarenakatta" ],
 
-  [ "{[subject]} want(s) to {[\"-ru\" verb]}|{[subject]} will want to {[\"-ru\" verb]}|~want to|~wants to|~will want to", "-たい|~たい", "{[\"-ru\" verb] -ru, +}tai|~tai" ],
-  [ "{[subject]} wanted to {[\"-ru\" verb]}|~wanted to", "-たかった|~たかった", "{[\"-ru\" verb] -ru, +}takatta|~takatta" ],
-  [ "{[subject]} don't / doesn't want to {[\"-ru\" verb]}|{[subject]} won't want to {[\"-ru\" verb]}|~don't want to|~doesn't want to|~do not want to|~does not want to|~won't want to|~will not want to", "-たくない|~たくない", "{[\"-ru\" verb] -ru, +}takunai|~takunai" ],
-  [ "{[subject]} didn't want to {[\"-ru\" verb]}|~didn't want to|~did not want to", "-たくなかった|~たくなかった", "{[\"-ru\" verb] -ru, +}takunakatta|~takunakatta" ],
+  [ "{[subject]} want(s) to {[\"-ru\" verb]}|{[subject]} will want to {[\"-ru\" verb]}|~want|~wants|~want to|~wants to|~will want to|~will want", "-たい|~たい", "{[\"-ru\" verb] -ru, +}tai|~tai" ],
+  [ "{[subject]} wanted to {[\"-ru\" verb]}|~wanted to|~wanted", "-たかった|~たかった", "{[\"-ru\" verb] -ru, +}takatta|~takatta" ],
+  [ "{[subject]} don't / doesn't want to {[\"-ru\" verb]}|{[subject]} won't want to {[\"-ru\" verb]}|~don't want|~doesn't want|~won't want|~don't want to|~doesn't want to|~do not want to|~does not want to|~won't want to|~will not want to|~do not want|~does not want|~will not want", "-たくない|~たくない", "{[\"-ru\" verb] -ru, +}takunai|~takunai" ],
+  [ "{[subject]} didn't want to {[\"-ru\" verb]}|~didn't want to|~did not want to|~didn't want|~did not want", "-たくなかった|~たくなかった", "{[\"-ru\" verb] -ru, +}takunakatta|~takunakatta" ],
   
-  [ "{[subject]} need(s) to {[\"-ru\" verb]}|{[subject]} will need to {[\"-ru\" verb]}|{[subject]} must {[\"-ru\" verb]}|~need to|~needs to|~will need to|~must", "-ないといけない|~-ないと", "{[\"-ru\" verb] -ru, +}nai to ikenai|~nai to" ],
-  [ "{[subject]} needed to {[\"-ru\" verb]}|~needed to", "-ないといけなかった|~ないといけなかった", "{[\"-ru\" verb] -ru, +}nai to ikenakatta|~nai to ikenakatta" ],
-  [ "{[subject]} don't / doesn't need to {[\"-ru\" verb]}|{[subject]} won't need to {[\"-ru\" verb]}|~don't need to|~doesn't need to|~do not need to|~does not need to|~won't need to|~will not need to", "-なくてもいい|~なくてもいい", "{[\"-ru\" verb] -ru, +}nakute mo ii|~nakute mo ii" ],
-  [ "{[subject]} didn't need to {[\"-ru\" verb]}|~didn't need to|~did not need to", "-なくてもよかった|~なくてもよかった", "{[\"-ru\" verb] -ru, +}nakute mo yokatta|~nakute mo yokatta" ],
+  [ "{[subject]} need(s) to {[\"-ru\" verb]}|{[subject]} will need to {[\"-ru\" verb]}|{[subject]} must {[\"-ru\" verb]}|~need to|~needs to|~will need to|~need|~needs|~will need|~must", "-ないといけない|~-ないと", "{[\"-ru\" verb] -ru, +}nai to ikenai|~nai to" ],
+  [ "{[subject]} needed to {[\"-ru\" verb]}|~needed to|~needed", "-ないといけなかった|~ないといけなかった", "{[\"-ru\" verb] -ru, +}nai to ikenakatta|~nai to ikenakatta" ],
+  [ "{[subject]} don't / doesn't need to {[\"-ru\" verb]}|{[subject]} won't need to {[\"-ru\" verb]}|~don't need to|~doesn't need to|~do not need to|~does not need to|~won't need to|~will not need to|~don't need|~doesn't need|~do not need|~does not need|~won't need|~will not need", "-なくてもいい|~なくてもいい", "{[\"-ru\" verb] -ru, +}nakute mo ii|~nakute mo ii" ],
+  [ "{[subject]} didn't need to {[\"-ru\" verb]}|~didn't need to|~did not need to|~didn't need|~did not need", "-なくてもよかった|~なくてもよかった", "{[\"-ru\" verb] -ru, +}nakute mo yokatta|~nakute mo yokatta" ],
 
   [ "-----" ],
 
