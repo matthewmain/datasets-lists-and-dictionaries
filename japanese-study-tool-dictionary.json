@@ -61,10 +61,10 @@
   
   [ "I/me|~I|~me", "わたし / 私|僕|俺", "watashi (formal)|boku (informal, masc.)|ore (very informal, masc.)|~watashi|~boku|~ore" ],
   [ "you {(singular)}|~you", "あなた", "anata" ],
-  [ "he/she, him/her {(\"that person\")}|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
+  [ "he/she | him/her | they/them {(singular)} {(\"that person\")}|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
   [ "we/us", "わたしたち / 私たち", "watashitachi" ],
   [ "you {(plural)}|~you|you all", "あなたたち", "anatatachi" ],         
-  [ "they/them|~they|~them|", "かれら", "karera|~kare-ra" ],
+  [ "they/them {(singular)}|~they|~them|", "かれら", "karera|~kare-ra" ],
   
 
   
@@ -177,7 +177,7 @@
   [ "octopus", "たこ", "tako" ],
   [ "crab", "かに", "kani" ],
   [ "spider", "蜘蛛", "kumo" ],
-  [ "fly (housefly)|~fly|~housefly", "hae", "はえ" ],
+  [ "fly {(housefly)}|~fly|~housefly", "hae", "はえ" ],
   [ "bug|insect", "虫", "mushi" ],
   [ "sun", "太陽", "taiyō|~taiyo" ],
   [ "moon|~month", "月", "tsuki" ],
