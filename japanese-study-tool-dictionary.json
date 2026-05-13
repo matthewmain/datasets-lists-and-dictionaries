@@ -176,6 +176,8 @@
   [ "shrimp", "えび", "ebi" ],
   [ "octopus", "たこ", "tako" ],
   [ "crab", "かに", "kani" ],
+  [ "spider", "蜘蛛", "kumo" ],
+  [ "bug|insect|fly", "虫", "mushi" ],
   [ "sun", "太陽", "taiyō|~taiyo" ],
   [ "moon|~month", "月", "tsuki" ],
   [ "mountain", "山|山", "yama|san" ],
@@ -213,6 +215,8 @@
   [ "heart {(organ)}|~heart", "心臓", "shinzo" ],
   [ "heart {(place of deep feeling)}|~heart", "心", "kokoro" ],
   [ "computer", "コンピューター", "konpyūtā|~konpyuta" ],
+  [ "lightheaded|dizzy", "のぼせる", "noboseru" ],
+  [ "hand", "手", "te" ],
   
   [ "-----" ],
   
