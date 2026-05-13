@@ -64,7 +64,7 @@
   [ "he/she | him/her | they/them {(singular)} {(\"that person\")}|~he|~she|~him|~her|~they|~them", "あのひと", "anohito" ],
   [ "we/us", "わたしたち / 私たち", "watashitachi" ],
   [ "you {(plural)}|~you|you all", "あなたたち", "anatatachi" ],         
-  [ "they/them {(singular)}|~they|~them|", "かれら", "karera|~kare-ra" ],
+  [ "they/them {(plural)}|~they|~them|", "かれら", "karera|~kare-ra" ],
   
 
   
