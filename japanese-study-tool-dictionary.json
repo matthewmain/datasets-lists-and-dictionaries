@@ -54,7 +54,7 @@
   
   [ "regarding {[general topic] (general topic marker)}|~general topic marker|~general topic|~topic marker|~topic|~regarding|~as for", "は", "{(topic)} wa|~wa" ],
   [ "{[specific subject] is the one who/that/which (subject marker)}|~subject marker|~specific subject|~subject|~is the one|~is the one who|~is the one that|~is the one which", "が", "{(specific subject)} ga|~ga" ],
-  [ "{[subject]} (to) {[object] (object marker)}|~object marker|~object", "を", "o {(/wo)}|~o|~wo" ],
+  [ "{[subject]} (to) {[object] (object marker)}|~to|~object marker|~object", "を", "o {(/wo)}|~o|~wo" ],
   [ "my/your/his/her/their/its / of {(possession marker)}|~possession|~possession marker|~my|~your|~his|~her|~their|~its|~of", "の", "no" ],
 
 
