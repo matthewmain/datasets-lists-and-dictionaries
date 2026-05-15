@@ -47,7 +47,7 @@
   [ "I speak Japanese poorly|~My Japanese is bad|~I don't speak Japanese very well|~I don't speak Japanese well", "私は日本語が下手です", "Watashi wa nihongo ga heta desu" ],
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
-  [ "I have a headache {("my head hurts")}|~I have a headache|~my head hurts|~have a headache|~head hurts", "頭が痛い", "atama ga itai" ],
+  [ "I have a headache {(/"my head hurts/")}"|~I have a headache|~my head hurts|~have a headache|~head hurts", "頭が痛い", "atama ga itai" ],
   
   
   
