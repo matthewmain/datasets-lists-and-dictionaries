@@ -221,13 +221,20 @@
   [ "lightheaded|dizzy", "のぼせる", "noboseru" ],
   [ "hand", "手", "te" ],
   [ "chopstick|chopsticks", "箸", "hashi" ],
+  [ "bag", "鞄", "kaban" ],
+  [ "table", "テーブル", "tēburu|~teburu" ],
+  [ "chair", "椅子", "isu" ],
+
   
   [ "-----" ],
   
   [ "lie {(untruth)}|~lie", "嘘", "uso" ],
   [ "liar", "嘘つき", "usotsuki" ],
   [ "idea|thought|~idea|~thought", "考え", "kangae" ],
-
+  [ "reason", "理由", "riyū|~riyu" ],
+  [ "question", "質問", "shitsumon" ],
+  [ "answer", "答え", "kotae" ],
+  
   
   
   [ "VERBS" ],
