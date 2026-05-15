@@ -350,7 +350,7 @@
   [ "full|~many", "いっぱい", "ippai" ],
   [ "long", "長い", "nagai" ],
   [ "short {(length)}|~short", "短い", "mijikai" ],
-  [ "painful / hurts|~painful|~hurts", "痛い", "itai" ],
+  [ "painful / hurts|~painful|~hurts|~hurt|~hurting", "痛い", "itai" ],
 
   
   [ "-----" ],
