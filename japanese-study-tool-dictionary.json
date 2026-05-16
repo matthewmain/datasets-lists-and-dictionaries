@@ -222,6 +222,7 @@
   [ "lightheaded|dizzy", "のぼせる", "noboseru" ],
   [ "hand", "手", "te" ],
   [ "chopstick|chopsticks", "箸", "hashi" ],
+  [ "chopstick rest|~chopsticks rest", "箸置き", "hashioki" ],
   [ "bag", "鞄", "kaban" ],
   [ "table", "テーブル", "tēburu|~teburu" ],
   [ "chair", "椅子", "isu" ],
