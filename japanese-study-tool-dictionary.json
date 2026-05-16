@@ -225,6 +225,8 @@
   [ "bag", "鞄", "kaban" ],
   [ "table", "テーブル", "tēburu|~teburu" ],
   [ "chair", "椅子", "isu" ],
+  [ "book", "本", "hon" ],
+  [ "pen", "ペン", "pen" ],
 
   
   [ "-----" ],
@@ -235,7 +237,8 @@
   [ "reason", "理由", "riyū|~riyu" ],
   [ "question", "質問", "shitsumon" ],
   [ "answer", "答え", "kotae" ],
-  
+  [ "story", "話", "hanashi" ],
+  [ "truth", "真実", "shinjitsu" ],
   
   
   [ "VERBS" ],
@@ -349,7 +352,9 @@
   [ "empty", "空っぽ|空いた", "karappo (no amount, in a container)|suita (low amount)|~karappo|~suita" ],
   [ "full|~many", "いっぱい", "ippai" ],
   [ "long", "長い", "nagai" ],
-  [ "short {(length)}|~short", "短い", "mijikai" ],
+  [ "short {(length or measurement)}|~short", "短い", "mijikai" ],
+  [ "tall|high", "高い", "takai" ],
+  [ "short {(height)}|low|~short", "低い", "hikui" ],
   [ "painful / hurts|~painful|~hurts|~hurt|~hurting", "痛い", "itai" ],
 
   
