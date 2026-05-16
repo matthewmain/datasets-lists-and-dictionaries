@@ -213,7 +213,7 @@
   [ "rice {(cooked)}|~rice", "御飯", "gohan" ],
   [ "bed", "ベッド", "beddo" ],
   [ "room", "部屋", "heya" ],
-  [ "phone", "電話", "denwa" ],
+  [ "phone (old style)|smartphone|~phone", "電話|スマホ", "denwa|sumaho" ],
   [ "green tea|~tea", "お茶", "ocha" ],
   [ "black tea", "紅茶", "kocha" ],
   [ "heart {(organ)}|~heart", "心臓", "shinzo" ],
