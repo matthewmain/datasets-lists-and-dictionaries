@@ -228,7 +228,9 @@
   [ "chair", "椅子", "isu" ],
   [ "book", "本", "hon" ],
   [ "pen", "ペン", "pen" ],
-
+  [ "key", "鍵", "kagi" ],
+  [ "door", "ドア", "doa" ],
+  [ "window", "窓", "mado" ],
   
   [ "-----" ],
   
@@ -240,7 +242,10 @@
   [ "answer", "答え", "kotae" ],
   [ "story", "話", "hanashi" ],
   [ "truth", "真実", "shinjitsu" ],
-  
+  [ "mistake", "間違い", "machigai" ],
+  [ "chance / opportunity|~chance|~opportunity", "機会", "kikai" ],
+  [ "wide", "広い", "hiroi" ],
+  [ "narrow", "狭い", "semai" ],
   
   [ "VERBS" ],
 
