@@ -48,6 +48,7 @@
   [ "I want to eat [ramen]|~I want to eat ramen", "[ラーメン]を食べたい|~ラーメンを食べたい", "[Rāmen] ga tabetai|[Rāmen] o tabetai|~Ramen ga tabetai|~Ramen o tabetai" ],
   [ "it's too much of a hassle|~too much of a hassle|it's a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
   [ "I have a headache {(\"my head hurts\")}|~I have a headache|~my head hurts|~have a headache|~head hurts", "頭が痛い", "atama ga itai" ],
+  [ "me too|same|~me too|~same", "私も|そうだね", "watashi mo / mo|sō da ne / so|~watashi mo|~mo|~so da ne|~so|mo|~sou da ne|~sou|~boku mo|~mo" ],
   
   
   
@@ -216,6 +217,10 @@
   [ "phone {(old style)}|phone {(smartphone)}|~phone", "電話|スマホ", "denwa|sumaho" ],
   [ "green tea|~tea", "お茶", "ocha" ],
   [ "black tea", "紅茶", "kocha" ],
+  [ "coffee", "コーヒー", "kōhī|~kohi" ],
+  [ "beer", "ビール", "bīru|~biru" ],
+  [ "bread", "パン", "pan" ],
+  [ "meat", "肉", "niku" ],
   [ "heart {(organ)}|~heart", "心臓", "shinzo" ],
   [ "heart {(place of deep feeling)}|~heart", "心", "kokoro" ],
   [ "computer", "コンピューター", "konpyūtā|~konpyuta" ],
