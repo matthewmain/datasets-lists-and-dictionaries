@@ -173,7 +173,7 @@
   [ "bear", "クマ", "kuma" ],
   [ "cow / bull|~cow|~bull", "牛|~うし", "ushi" ],
   [ "monkey", "猿", "saru" ],
-  [ "chicken", "チキン", "chikin" ],
+  [ "chicken", "チキン|鶏肉", "chikin (animal)|toriniku(meat)|~chikin|~toriniku" ],
   [ "rabbit", "うさぎ", "usagi" ],
   [ "turtle", "亀", "kame" ],
   [ "fish", "魚", "sakana" ],
