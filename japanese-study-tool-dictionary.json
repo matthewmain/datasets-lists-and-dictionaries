@@ -236,6 +236,12 @@
   [ "key", "鍵", "kagi" ],
   [ "door", "ドア", "doa" ],
   [ "window", "窓", "mado" ],
+  [ "car", "車", "kuruma" ],
+  [ "train", "電車", "densha" ],
+  [ "apartment", "アパート", "apāto|~apato" ],
+  [ "school", "学校", "gakkō|~gakko" ],
+  [ "vegetable", "野菜", "yasai" ],
+  [ "fruit", "果物", "kudamono" ],
   
   [ "-----" ],
   
@@ -249,8 +255,7 @@
   [ "truth", "真実", "shinjitsu" ],
   [ "mistake", "間違い", "machigai" ],
   [ "chance / opportunity|~chance|~opportunity", "機会", "kikai" ],
-  [ "wide", "広い", "hiroi" ],
-  [ "narrow", "狭い", "semai" ],
+  [ "experience", "経験", "keiken" ],
   
   [ "VERBS" ],
 
@@ -366,6 +371,8 @@
   [ "short {(length or measurement)}|~short", "短い", "mijikai" ],
   [ "tall|high", "高い", "takai" ],
   [ "short {(height)}|low|~short", "低い", "hikui" ],
+  [ "wide", "広い", "hiroi" ],
+  [ "narrow", "狭い", "semai" ],
   [ "painful / hurts|~painful|~hurts|~hurt|~hurting", "痛い", "itai" ],
 
   
