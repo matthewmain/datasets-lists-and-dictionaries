@@ -211,7 +211,7 @@
   [ "hair {(body)}|fur|~hair", "け", "ke" ],
   [ "clothes", "服", "fuku" ],
   [ "rice {(uncooked)}|~rice", "米", "kome" ],
-  [ "rice {(cooked)}|~rice", "御飯", "gohan" ],
+  [ "rice {(cooked)}|meal|~rice", "御飯", "gohan" ],
   [ "bed", "ベッド", "beddo" ],
   [ "room", "部屋", "heya" ],
   [ "phone {(old style)}|phone {(smartphone)}|~phone", "電話|スマホ", "denwa|sumaho" ],
