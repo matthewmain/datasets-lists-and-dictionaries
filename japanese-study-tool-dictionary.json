@@ -246,6 +246,13 @@
   [ "breakfast", "朝ご飯", "asagohan" ],
   [ "lunch", "昼ご飯", "hirugohan" ],
   [ "dinner", "晩ご飯", "bangohan" ],
+  [ "snack", "おやつ", "oyatsu" ],
+  [ "soup", "スープ", "sūpu|~supu" ],
+  [ "noodle", "麺", "men" ],
+  [ "ramen", "ラーメン", "rāmen|~ramen" ],
+  [ "sushi", "寿司", "sushi" ],
+  [ "milk", "牛乳", "gyūnyū|~gyunyu" ],
+  [ "office|company", "会社", "kaisha" ],
   
   [ "-----" ],
   
