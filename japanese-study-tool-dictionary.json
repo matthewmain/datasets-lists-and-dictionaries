@@ -253,6 +253,14 @@
   [ "sushi", "寿司", "sushi" ],
   [ "milk", "牛乳", "gyūnyū|~gyunyu" ],
   [ "office|company", "会社", "kaisha" ],
+  [ "salt", "塩", "shio" ],
+  [ "sugar", "砂糖", "satō|~sato" ],
+  [ "watch|clock", "時計", "tokei" ],
+  [ "umbrella", "傘", "kasa" ],
+  [ "wallet", "財布", "saifu" ],
+  [ "ticket", "切符", "kippu" ],
+  [ "map", "地図", "chizu" ],
+  [ "camera", "カメラ", "kamera" ],
   
   [ "-----" ],
   
@@ -267,6 +275,7 @@
   [ "mistake", "間違い", "machigai" ],
   [ "chance / opportunity|~chance|~opportunity", "機会", "kikai" ],
   [ "experience", "経験", "keiken" ],
+  [ "temperature {(general)}|temperature {(air / weather)}|temperature {(body)}|~temperature", "温度|気温|体温", "ondo|kion|taion" ],
   
   [ "VERBS" ],
 
