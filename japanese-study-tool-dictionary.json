@@ -49,6 +49,7 @@
   [ "it's too much of a hassle|~too much of a hassle|it's a hassle|it's annoying|~annoying|~I don't care", "めんどくさい", "mendokusai" ],
   [ "I have a headache {(\"my head hurts\")}|~I have a headache|~my head hurts|~have a headache|~head hurts", "頭が痛い", "atama ga itai" ],
   [ "me too|same|~me too|~same", "私も|そうだね", "watashi mo / mo|sō da ne / so|~watashi mo|~mo|~so da ne|~so|mo|~sou da ne|~sou|~boku mo|~mo" ],
+  [ "what should I do?|what am I going to do?|~what should I do|~what am I going to do", "どうしよう", "dō shiyō|~do shiyo" ],
   
   
   
