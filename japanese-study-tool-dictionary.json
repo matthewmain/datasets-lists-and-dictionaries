@@ -26,7 +26,7 @@
   [ "excuse me|~pardon me", "すみません", "sumimasen" ],
   [ "welcome", "いらっしゃいませ|よこそ", "irasshaimase|yokoso" ],
   [ "nice to meet you|~it's nice to meet you", "はじめまして", "hajimemashite" ],
-  [ "I'm okay|Are you okay?|~I'm okay|~Are you okay?|~okay", "大丈夫", "daijōbu|~daijobu" ],
+  [ "It's okay|I'm okay|Are you okay?|~okay", "大丈夫", "daijōbu|~daijobu" ],
   [ "I understand", "わかります", "Wakari mas" ],
   [ "I don't understand", "わかりません", "Wakari masen" ],
   [ "I like [ramen]|~I like ramen", "私は[ラーメン]が好きです|~私はラーメンが好きです", "Watashi wa [rāmen] ga suki desu|~Watashi wa rāmen ga suki desu|~Watashi wa ramen ga suki desu" ],
