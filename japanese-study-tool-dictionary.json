@@ -402,7 +402,7 @@
   [ "tall|high", "高い", "takai" ],
   [ "short {(height)}|low|~short", "低い", "hikui" ],
   [ "wide", "広い", "hiroi" ],
-  [ "narrow", "狭い", "semai" ],
+  [ "narrow / thin|~narrow|~thin", "狭い", "semai" ],
   [ "painful / hurts|~painful|~hurts|~hurt|~hurting", "痛い", "itai" ],
 
   
