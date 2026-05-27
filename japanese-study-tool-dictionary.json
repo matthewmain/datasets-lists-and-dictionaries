@@ -286,6 +286,7 @@
   [ "chance / opportunity|~chance|~opportunity", "機会", "kikai" ],
   [ "experience", "経験", "keiken" ],
   [ "temperature {(general)}|temperature {(air / weather)}|temperature {(body)}|~temperature", "温度|気温|体温", "ondo|kion|taion" ],
+  [ "brain|mind {(logical / thinking self)}|~brain|~mind", "脳", "nō|~no" ],
   
   [ "VERBS" ],
 
