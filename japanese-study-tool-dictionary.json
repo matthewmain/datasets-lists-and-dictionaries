@@ -271,6 +271,11 @@
   [ "wind", "風", "kaze" ],
   [ "cloud", "雲", "kumo (雲)|~kumo" ],
   [ "sky", "空", "sora" ],
+  [ "star", "星", "hoshi" ],
+  [ "body", "体", "karada" ],
+  [ "face", "顔", "kao" ],
+  [ "ear", "耳", "mimi" ],
+  [ "tooth", "歯", "ha" ],
   
   [ "-----" ],
   
