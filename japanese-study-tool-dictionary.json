@@ -423,16 +423,16 @@
   
   [ "-----" ],
 
-  [ "red|red thing/one|~red thing|~red one", "赤|赤い/赤いの|~赤い|~赤いの", "aka|akai/akai no|~akai|~akai no" ],
-  [ "blue|blue thing/one|~blue thing|~blue one", "青|青い/青いの|~青い|~青いの", "ao|aoi/aoi no|~aoi|~aoi no" ],
-  [ "yellow|yellow thing/one|~yellow thing|~yellow one", "黄色|黄色い/黄色いの|~黄色い|~黄色いの", "kiiro|kiiroi/kiiroi no|~kiiroi|~kiiroi no" ],
+  [ "red|red thing/one|~red thing|~red one", "赤|赤い/赤いの|~赤い|~赤いの", "aka|akai / akai no|~akai|~akai no" ],
+  [ "blue|blue thing/one|~blue thing|~blue one", "青|青い/青いの|~青い|~青いの", "ao|aoi / aoi no|~aoi|~aoi no" ],
+  [ "yellow|yellow thing/one|~yellow thing|~yellow one", "黄色|黄色い/黄色いの|~黄色い|~黄色いの", "kiiro|kiiroi / kiiroi no|~kiiroi|~kiiroi no" ],
   [ "purple|purple thing/one|~purple thing|~purple one|~violet", "紫|紫の", "murasaki|murasaki no" ],
   [ "green|green thing/one|~green thing|~green one", "緑|緑の", "midori|midori no" ],
   [ "orange|orange thing/one|~orange thing|~orange one", "オレンジ|オレンジの", "orenji|orenji no" ],
   [ "pink|pink thing/one|~pink thing|~pink one", "ピンク|ピンクの", "pinku|pinku no" ],
-  [ "brown|brown thing/one|~brown thing|~brown one", "茶色|茶色い/茶色いの|~茶色い|~茶色いの", "chairo|chairoi/chairoi no|~chairoi|~chairoi no" ],
-  [ "black|black thing/one|~black thing|~black one", "黒|黒い/黒いの|~黒い|~黒いの", "kuro|kuroi/kuroi no|~kuroi|~kuroi no" ],
-  [ "white|white thing/one|~white thing|~white one", "白|白い/白いの|~白い|~白いの", "shiro|shiroi/shiroi no|~shiroi|~shiroi no" ],
+  [ "brown|brown thing/one|~brown thing|~brown one", "茶色|茶色い/茶色いの|~茶色い|~茶色いの", "chairo|chairoi / chairoi no|~chairoi|~chairoi no" ],
+  [ "black|black thing/one|~black thing|~black one", "黒|黒い/黒いの|~黒い|~黒いの", "kuro|kuroi / kuroi no|~kuroi|~kuroi no" ],
+  [ "white|white thing/one|~white thing|~white one", "白|白い/白いの|~白い|~白いの", "shiro|shiroi / shiroi no|~shiroi|~shiroi no" ],
   [ "gray|gray thing/one|~gray thing|~gray one|~grey|~grey thing|~grey one", "灰色|灰色の", "haiiro|haiiro no" ],
   
   [ "-----" ],
