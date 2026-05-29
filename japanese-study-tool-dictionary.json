@@ -413,12 +413,13 @@
   [ "wide", "広い", "hiroi" ],
   [ "narrow / thin|~narrow|~thin", "狭い", "semai" ],
   [ "painful / hurts|~painful|~hurts|~hurt|~hurting|~pain", "痛い", "itai" ],
-  [ "scared|afraid", "怖い", "kowai" ],
-  [ "difficult|hard", "難しい", "muzukashii" ],
+  [ "scared / afraid|~scared|~afraid", "怖い", "kowai" ],
+  [ "difficult / hard|~difficult|~hard", "難しい", "muzukashii" ],
   [ "easy", "易しい", "yasashii" ],
-  [ "busy", "忙しい", "isogashii" ],
   [ "new", "新しい", "atarashii" ],
   [ "old", "古い", "furui" ],
+  [ "young", "若い", "wakai" ],
+  [ "more", "もっと", "motto" ],
 
   
   [ "-----" ],
