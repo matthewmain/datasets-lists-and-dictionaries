@@ -50,6 +50,7 @@
   [ "I have a headache {(\"my head hurts\")}|~I have a headache|~my head hurts|~have a headache|~head hurts", "頭が痛い", "atama ga itai" ],
   [ "me too|same|~me too|~same", "私も|そうだね", "watashi mo / mo|sō da ne / so|~watashi mo|~mo|~so da ne|~so|mo|~sou da ne|~sou|~boku mo|~mo" ],
   [ "what should I do?|what am I going to do?|what am I doing?|what was I doing?", "どうしよう", "dō shiyō|~do shiyo" ],
+  [ "I think so", "そう思う", "sō omou|~so omou" ],
   
   
   
@@ -118,7 +119,7 @@
   [ "night", "夜", "yoru" ],
   [ "day {(date)}|~day|~date", "日", "hi" ],
   [ "month|~moon", "月|月", "tsuki|gatsu" ],
-  [ "year", "年", "toshi" ],
+  [ "year", "年", "toshi (年)|~toshi" ],
   [ "spring", "春", "haru" ],
   [ "summer", "夏", "natsu" ],
   [ "autumn / fall|~autumn|~fall", "秋", "aki" ],
@@ -278,6 +279,11 @@
   [ "tooth", "歯", "ha" ],
   [ "fire", "火", "hi" ],
   [ "ash", "灰", "hai" ],
+  [ "airport", "空港", "kūkō|~kuko" ],
+  [ "city", "都市", "toshi (都市)|~toshi" ],
+  [ "apple", "りんご", "ringo" ],
+  [ "peach", "桃", "momo" ],
+  [ "persimmon", "柿", "kaki" ],
   
   [ "-----" ],
   
