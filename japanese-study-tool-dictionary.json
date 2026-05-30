@@ -228,7 +228,8 @@
   [ "computer", "コンピューター", "konpyūtā|~konpyuta" ],
   [ "lightheaded|dizzy", "のぼせる", "noboseru" ],
   [ "hand", "手", "te" ],
-  [ "chopstick / chopsticks|~chopstick|~chopsticks", "箸", "hashi" ],
+  [ "bridge", "橋", "hashi (橋)|~hashi" ],
+  [ "chopstick / chopsticks|~chopstick|~chopsticks", "箸", "hashi (箸)|~hashi" ],
   [ "chopstick rest|~chopsticks rest|~chopstick holder|~chopsticks holder", "箸置き", "hashioki" ],
   [ "bag", "鞄", "kaban" ],
   [ "table", "テーブル", "tēburu|~teburu" ],
@@ -283,7 +284,8 @@
   [ "city", "都市", "toshi (都市)|~toshi" ],
   [ "apple", "りんご", "ringo" ],
   [ "peach", "桃", "momo" ],
-  [ "persimmon", "柿", "kaki" ],
+  [ "persimmon", "柿", "kaki (柿)|~kaki" ],
+  [ "oyster", "牡蠣", "kaki (牡蠣)|~kaki" ],
   
   [ "-----" ],
   
