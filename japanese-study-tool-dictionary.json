@@ -286,7 +286,8 @@
   [ "peach", "桃", "momo" ],
   [ "persimmon", "柿", "kaki (柿)|~kaki" ],
   [ "oyster", "牡蠣", "kaki (牡蠣)|~kaki" ],
-  [ "country", "国", "kuni" ],
+  [ "country / nation|~country|~nation", "国", "kuni" ],
+  [ "country /countryside|~country|~countryside|~rural area", "田舎", "inaka" ],
   [ "beach", "海岸", "kaigan" ],
   [ "river", "川", "kawa" ],
   
