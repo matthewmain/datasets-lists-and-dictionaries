@@ -286,6 +286,9 @@
   [ "peach", "桃", "momo" ],
   [ "persimmon", "柿", "kaki (柿)|~kaki" ],
   [ "oyster", "牡蠣", "kaki (牡蠣)|~kaki" ],
+  [ "country", "国", "kuni" ],
+  [ "beach", "海岸", "kaigan" ],
+  [ "river", "川", "kawa" ],
   
   [ "-----" ],
   
@@ -439,7 +442,7 @@
 [ "green {(adjective)}|green {thing/one}|~green|~green thing|~green one", "緑|緑の", "midori|midori no" ],
 [ "orange {(adjective)}|orange {thing/one}|~orange|~orange thing|~orange one", "オレンジ|オレンジの", "orenji|orenji no" ],
 [ "pink {(adjective)}|pink {thing/one}|~pink|~pink thing|~pink one", "ピンク|ピンクの", "pinku|pinku no" ],
-[ "brown {(adjective)}|brown {thing/one}|~brown|~brown thing|~brown one", "茶色い|茶色/茶色いの|~茶色い|~茶色いの", "chairoi|chairo / chairoi no|~chairo|~chairoi no" ],
+[ "brown {(adjective)}|brown {thing/one}|~brown|~brown thing|~brown one", "茶色|茶色の", "chairo|chairo no" ],
 [ "black {(adjective)}|black {thing/one}|~black|~black thing|~black one", "黒い|黒/黒いの|~黒|~黒いの", "kuroi|kuro / kuroi no|~kuro|~kuroi no" ],
 [ "white {(adjective)}|white {thing/one}|~white|~white thing|~white one", "白い|白/白いの|~白|~白いの", "shiroi|shiro / shiroi no|~shiro|~shiroi no" ],
 [ "gray {(adjective)}|gray {thing/one}|~gray|~gray thing|~gray one|~grey|~grey thing|~grey one", "灰色|灰色の", "haiiro|haiiro no" ],
