@@ -409,7 +409,6 @@
 [ "slow", "遅い", "osoi" ],
 [ "skinny / thin|~skinny|~thin", "ほそい", "hosoi" ],
 [ "fat|~fat", "でぶ", "debu" ],
-[ "cool {(characteristic)}|~cool", "格好いい", "kakkōī|~kakkoi" ],
 [ "asleep", "寝てる", "neteru" ],
 [ "awake", "起きてる", "okiteru" ],
 [ "dry", "乾く", "kawaku" ],
@@ -434,6 +433,9 @@
 [ "strong", "強い", "tsuyoi" ],
 [ "weak", "弱い", "yowai" ],
 [ "windy", "風が強い", "kaze ga tsuyoi" ],
+[ "cool {(characteristic)}|handsome|~cool", "かっこいい", "kakkoii" ],
+[ "beautiful", "美しい", "utsukushii" ],
+[ "ugly", "醜い", "minikui" ],
 
 
 [ "-----" ],
