@@ -302,6 +302,12 @@
 [ "back {(body)}|~back", "背中", "senaka" ],
 [ "leg", "脚", "ashi (脚)|~ashi" ],
 [ "foot", "足", "ashi (足)|~ashi" ],
+[ "penis", "陰茎", "inkei" ],
+[ "vagina", "膣", "chitsu" ],
+[ "breast(s) {(boobs)}", "おっぱい", "oppai" ],
+[ "butt {(buttocks)}", "お尻", "oshiri" ],
+[ "knee", "膝", "hiza" ],
+[ "elbow", "肘", "hiji" ],
 [ "voice", "声", "koe" ],
 [ "blood", "血", "chi" ],
 
