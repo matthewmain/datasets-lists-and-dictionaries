@@ -305,7 +305,7 @@
 [ "penis", "陰茎", "inkei" ],
 [ "vagina", "膣", "chitsu" ],
 [ "breast(s) {(boobs)}|~breasts|~breast|~boobs|~boob|~tits|~tit", "おっぱい", "oppai" ],
-[ "butt {(buttocks)}"|~butt|~buttocks|~ass, "お尻", "oshiri" ],
+[ "butt {(buttocks)}|~butt|~buttocks|~ass", "お尻", "oshiri" ],
 [ "knee", "膝", "hiza" ],
 [ "elbow", "肘", "hiji" ],
 [ "voice", "声", "koe" ],
