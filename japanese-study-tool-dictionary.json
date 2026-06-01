@@ -330,6 +330,7 @@
 [ "{[subject]} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
 [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
 [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
+[ "don't {[\"-ru\" verb]}|~don't", "-る な|~る な", "{[\"-ru\" verb] +} na|~-ru na|~ru na" ],
 [ "-----" ],
 [ "{[subject]} can {[\"-ru\" verb]}|{[subject]} will be able to {[\"-ru\" verb]}|~can|~will be able to|~will be able", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
 [ "{[subject]} could {[\"-ru\" verb]}|~could", "-られた|~られた", "{[\"-ru\" verb] -ru, +}rareta|~rareta" ],
