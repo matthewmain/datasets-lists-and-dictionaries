@@ -385,15 +385,23 @@
 
 [ "-----" ],[ "-----" ],
 
-[ "like {(admire / prefer)}|~like|~admire|~prefer", "好き", "suki" ],
 [ "remember", "覚えてる", "oboeteru" ],
 [ "turn on|light", "つける", "tsukeru" ],
 [ "turn off|extinguish|erase", "消す", "kesu" ],
 
-[ "NOTE", "I-adjectives with verb equivalents in English" ],
-  
-[ "want {(lit. \"is wanted\")}|~want|~is wanted", "欲しい", "hoshī|hoshi" ],
 
+[ "-----" ],[ "-----" ],
+  
+[ "NOTE", "(adjectives with verb equivalents in English)" ],
+
+[ "want {(lit. \"is wanted\")}|~want|~is wanted", "欲しい", "hoshī|hoshi" ],
+[ "need {(lit. \"is needed\")}|~need|~is needed", "必要", "hitsuyō|~hitsuyo" ],
+  
+[ "like {(lit. \"is liked\")}|~like|~is liked", "好き", "suki" ],
+[ "dislike {(lit. \"is disliked\")}|~dislike|~is disliked", "嫌い", "kirai" ],
+
+[ "good at / skillful|~good at|~skillful", "上手", "jōzu|~jozu" ],
+[ "bad at / unskillful|~bad at|~unskillful", "下手", "heta" ],
 
 
 [ "ADJECTIVES" ],
@@ -462,6 +470,9 @@
 [ "cool {(characteristic)}|handsome|~cool", "かっこいい", "kakkoii" ],
 [ "beautiful", "美しい", "utsukushii" ],
 [ "ugly", "醜い", "minikui" ],
+[ "hard", "硬い", "katai" ],
+[ "soft", "柔らかい", "yawarakai" ],
+
 
 
 [ "-----" ],
