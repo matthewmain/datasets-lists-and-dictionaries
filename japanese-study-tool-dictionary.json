@@ -336,7 +336,6 @@
 [ "{[subject]} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
 [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
 [ "let's {[\"-ru\" verb]}|~let's", "-よう|~よう", "{[\"-ru\" verb] -ru, +}yō|~-yō|~yo" ],
-[ "don't {[\"-ru\" verb]}|~don't", "な", "{[\"-ru\" verb] +} na|~na" ],
 [ "-----" ],
 [ "{[subject]} can {[\"-ru\" verb]}|{[subject]} will be able to {[\"-ru\" verb]}|~can|~will be able to|~will be able", "-られる|~られる", "{[\"-ru\" verb] -ru, +}rareru|~rareru" ],
 [ "{[subject]} could {[\"-ru\" verb]}|~could", "-られた|~られた", "{[\"-ru\" verb] -ru, +}rareta|~rareta" ],
@@ -353,6 +352,11 @@
 [ "{[subject]} don't / doesn't need to {[\"-ru\" verb]}|{[subject]} won't need to {[\"-ru\" verb]}|~don't need to|~doesn't need to|~do not need to|~does not need to|~won't need to|~will not need to|~don't need|~doesn't need|~do not need|~does not need|~won't need|~will not need", "-なくてもいい|~なくてもいい", "{[\"-ru\" verb] -ru, +}nakute mo ii|~nakute mo ii" ],
 [ "{[subject]} didn't need to {[\"-ru\" verb]}|~didn't need to|~did not need to|~didn't need|~did not need", "-なくてもよかった|~なくてもよかった", "{[\"-ru\" verb] -ru, +}nakute mo yokatta|~nakute mo yokatta" ],
 
+[ "-----" ],[ "-----" ],
+
+[ "don't {[verb](!)}|~don't|~do not", "な", "{[verb]} na|~na" ],
+
+  
 [ "-----" ],[ "-----" ],
 
 [ "{[subject]} eat(s)|{[subject]} will eat|~eat|~eats|~will eat", "食べる", "taberu" ],
@@ -378,17 +382,17 @@
 [ "{[subject]} don't / doesn't need to eat|{[subject]} won't need to eat|~don't need to eat|~doesn't need to eat|~do not need to eat|~does not need to eat|~won't need to eat|~will not need to eat", "食べなくてもいい", "tabenakute mo ii" ],
 [ "{[subject]} didn't need to eat|~didn't need to eat|~did not need to eat", "食べなくてもよかった", "tabenakute mo yokatta" ],
 
+
 [ "-----" ],[ "-----" ],
 
-[ "don't {[verb](!)}|~don't|~do not", "な", "{[verb]} na|~na" ],
-
-[ "-----" ],
-
 [ "like {(admire / prefer)}|~like|~admire|~prefer", "好き", "suki" ],
-[ "want", "欲しい", "hoshī|hoshi" ],
 [ "remember", "覚えてる", "oboeteru" ],
 [ "turn on|light", "つける", "tsukeru" ],
 [ "turn off|extinguish|erase", "消す", "kesu" ],
+
+[ "NOTE", "I-adjectives with verb equivalents in English" ],
+  
+[ "want {(lit. \"is wanted\")}", "欲しい", "hoshī|hoshi" ],
 
 
 
