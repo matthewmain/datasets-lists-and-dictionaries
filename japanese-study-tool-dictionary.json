@@ -36,7 +36,7 @@
 [ "I'm from America", "私はアメリカ出身です", "Watashi wa Amerika shusshin desu" ],
 [ "I'm American", "私はアメリカ人です", "Watashi wa Amerika jin desu" ],
 [ "this one / this thing {(i.e., while pointing)}|~this one|~this thing|~that one|~that thing", "これです", "koredesu" ],
-[ "really?|~really", "ほんと？|~ほんと", "honto?|~honto" ],
+[ "really / truly|~really|~truly", "ほんと / ほんとに|~ほんと|~ほんとに", "honto / honto ni|~honto|~honto ni" ],
 [ "right? / right {(agreement)}|~right|~correct", "そうだよ？|~そうだよ", "sōdayo?|~sōdayo?|~sodayo|~sodayo" ],
 [ "so / right {(and so...)}|~so|~right|~that's right|~and so", "そうだ / そう", "souda / sou|~souda|~sou" ],
 [ "correct", "合ってる", "atteru" ],
@@ -50,6 +50,8 @@
 [ "me too|same|~me too|~same", "私も|そうだね", "watashi mo / mo|sō da ne / so|~watashi mo|~mo|~so da ne|~so|mo|~sou da ne|~sou|~boku mo|~mo" ],
 [ "what should I do?|what am I going to do?|what am I doing?|what was I doing?", "どうしよう", "dō shiyō|~do shiyo" ],
 [ "I think so", "そう思う", "sō omou|~so omou" ],
+[ "I know", "知っている", "shitte iru|~shitteru" ],
+[ "I don't know", "知らない", "shiranai" ],
 
 
 
@@ -152,6 +154,9 @@
 [ "brother", "兄弟", "kyōdai|~kyodai" ],
 [ "daughter", "娘", "musume" ],
 [ "son", "息子", "musuko" ],
+[ "fiance", "婚約者", "konyakusha" ],
+[ "wife", "妻", "tsuma" ],
+[ "husband", "夫", "otto" ],
 
 [ "friend", "友達", "tomodachi" ],
 
@@ -310,6 +315,8 @@
 [ "elbow", "肘", "hiji" ],
 [ "voice", "声", "koe" ],
 [ "blood", "血", "chi" ],
+[ "road", "道", "michi" ],
+[ "ring", "指輪", "yubiwa" ],
 
 [ "-----" ],
 
