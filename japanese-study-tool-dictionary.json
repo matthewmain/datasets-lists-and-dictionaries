@@ -317,6 +317,9 @@
 [ "blood", "血", "chi" ],
 [ "road", "道", "michi" ],
 [ "ring", "指輪", "yubiwa" ],
+[ "bathroom / restroom|toilet|~bathroom|~restroom|~toilet", "トイレ", "toire" ],
+[ "kitchen", "台所", "daidokoro" ],
+[ "bedroom", "寝室", "shinshitsu" ],
 
 [ "-----" ],
 
