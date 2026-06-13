@@ -49,9 +49,9 @@
 [ "I have a headache {(\"my head hurts\")}|~I have a headache|~my head hurts|~have a headache|~head hurts", "頭が痛い", "atama ga itai" ],
 [ "me too|same|~me too|~same", "私も|そうだね", "watashi mo / mo|sō da ne / so|~watashi mo|~mo|~so da ne|~so|mo|~sou da ne|~sou|~boku mo|~mo" ],
 [ "what should I do?|what am I going to do?|what am I doing?|what was I doing?", "どうしよう", "dō shiyō|~do shiyo" ],
-[ "I think so", "そう思う", "sō omou|~so omou" ],
-[ "I know", "知っている", "shitte iru|~shitteru" ],
-[ "I don't know", "知らない", "shiranai" ],
+[ "I think so|~think so", "そう思う", "sō omou|~so omou" ],
+[ "I know|~know", "知っている", "shitte iru|~shitteru" ],
+[ "I don't know|~don't know", "知らない", "shiranai" ],
 
 
 
