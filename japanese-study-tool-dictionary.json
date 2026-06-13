@@ -320,6 +320,11 @@
 [ "bathroom / restroom|toilet|~bathroom|~restroom|~toilet", "トイレ", "toire" ],
 [ "kitchen", "台所", "daidokoro" ],
 [ "bedroom", "寝室", "shinshitsu" ],
+[ "doctor", "医者", "isha" ],
+[ "lawyer", "弁護士", "bengoshi" ],
+[ "writer / author|~writer|~author", "作家", "sakka" ],
+[ "art", "芸術", "geijutsu" ],
+[ "artist", "芸術家", "geijutsuka" ],
 
 [ "-----" ],
 
