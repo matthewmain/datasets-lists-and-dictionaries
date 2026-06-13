@@ -346,7 +346,7 @@
 
 [ "NOTE", "Ichidan (\"-ru\" verbs)" ],
 
-[ "{[subject] [\"-ru\" verb]-}ed|~ed", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
+[ "{[subject] [\"-ru\" verb]-}ed|~ed|~did", "-た|~た", "{[\"-ru\" verb] -ru, +}ta|~ta" ],
 [ "{[subject]} don't / doesn't {[\"-ru\" verb]}|{[subject]} won't {[\"-ru\" verb]}|~don't|~doesn't|~won't|~do not|~does not|~will not", "-ない|~ない", "{[\"-ru\" verb] -ru, +}nai|~nai" ],
 [ "{[subject]} didn't {[\"-ru\" verb]}|~didn't|~did not", "-なかった|~なかった", "{[\"-ru\" verb] -ru, +}nakatta|~nakatta" ],
 [ "{(please)} (do) {(\"-ru\" verb)}|{(\"-ru\" verb)} and… |~do|~please do|~do please|~do and", "-て|~て", "{[\"-ru\" verb] -ru, +}te|~te" ],
