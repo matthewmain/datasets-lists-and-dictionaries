@@ -373,7 +373,7 @@
 
 [ "{[subject] [godan verb]-}ed|~ed", "-った / -んだ / -いた / -いだ / -した|~った|~んだ|~いた|~いだ|~した", "{[godan verb] -u, +} tta / nda / ita / ida / shita|~tta|~nda|~ita|~ida|~shita" ],
 [ "{[subject]} don't / doesn't {[godan verb]}|{[subject]}  won't {[godan verb]}|~don't|~doesn't|~won't|~do not|~does not|~will not", "-ない|~ない", "{[godan verb] -u, +}anai|~anai" ],
-[ "{[subject]} didn't {[godan verb]}|~didn't|~did not", "-なかった|~なかった", "{[godan verb] -u, +}nakatta|~nakatta" ],
+[ "{[subject]} didn't {[godan verb]}|~didn't|~did not", "-なかった|~なかった", "{[godan verb] -u, +}anakatta|~anakatta" ],
 [ "{(please)} (do) {(godan verb)}|{(\"-u\" verb)} and… |~do|~please do|~do please|~do and", "-って / -いて / -いで / -して / -んで|~って|~いて|~いで|~して|~んで", "{[godan verb] -u, +} tte / ite / ide / shite / nde|~tte|~ite|~ide|~shite|~nde" ], 
 [ "let's {[godan verb]}|~let's", "-おう|~おう", "{[godan verb] -u, +}ō|~-ō|~o" ],
 [ "-----" ],
